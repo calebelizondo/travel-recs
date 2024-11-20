@@ -6,3 +6,4 @@ transformers
 torch
 pycountry
 rank_bm25
+nltk
