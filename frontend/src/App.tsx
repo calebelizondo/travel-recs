@@ -1,14 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import LandingPage from "./pages/LandingPage";
-import MapePage from './pages/MapPage';
+import React, { useState, useEffect, useRef } from 'react';
+import LandingPage from './pages/LandingPage'; 
+import MapPage from './pages/MapPage';  
+import { CountryInfo } from './types';
 
 function App() {
+  const [queryResult, setQueryResult] = useState<CountryInfo[] | null>(null);
+  const targetDivRef = useRef<HTMLDivElement | null>(null); 
+
+  useEffect(() => {
+
+    console.log("result:", queryResult)
+    if (queryResult) {
+      targetDivRef.current?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+      });
+    }
+  }, [queryResult]); 
   return (
     <>
-      <LandingPage></LandingPage>
-      <MapePage></MapePage>
+      <LandingPage setQueryResult={setQueryResult} />
+      <MapPage queryResult={queryResult} targetDiv={targetDivRef}/>
     </>
   );
 }

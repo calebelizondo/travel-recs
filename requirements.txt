@@ -1,2 +1,4 @@
 gensim
 numpy
+django
+django-cors-headers

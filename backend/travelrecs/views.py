@@ -9,7 +9,11 @@ import pycountry
 print("loading model")
 model_file = './travelrecs/models/google_pca_reduced.model'
 model = Word2Vec.load(model_file)
-countries = [country.name for country in pycountry.countries]
+countries = [
+    {"name": country.name, "code": country.alpha_3}
+    for country in pycountry.countries
+    if "island" not in country.name.lower() and "islands" not in country.name.lower()
+]
 print("done loading model")
 
 
@@ -35,25 +39,30 @@ def query(request):
 
     scores = {}
     for country in countries: 
-        country_tokens = tokenize(country)
+        country_name = country["name"]
+        country_code = country["code"]
+        country_tokens = tokenize(country_name)
         combined_tokens = country_tokens + tokens
         print(combined_tokens)
         score = 0
         count = 0
-        for word1 in country:
+        for word1 in country_tokens:
             for word2 in tokens:
                 if word1 in model.wv and word2 in model.wv:
-                    score += model.wv.similarity(word1, word2)
+                    similarity = model.wv.similarity(word1, word2)
+                    score += similarity  # Add similarity instead of multiplying
                     count += 1
-            
-            # Normalize the score by the number of comparisons
-        scores[country] = score / count if count > 0 else 0
 
-        # Sort countries by score in descending order
-    sorted_countries = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-    result = [(country, score) for country, score in sorted_countries if score > 0]
+        # Normalize the score by the number of comparisons
+        # To avoid division by zero, we ensure a minimum of 1 for the count
+        scores[country_name] = {"code": country_code, "score": score / max(count, 1)}
+
+    # Sort countries by score in descending order
+    sorted_countries = sorted(scores.items(), key=lambda x: x[1]["score"], reverse=True)
+    result = [
+        {"name": country, "code": details["code"], "score": details["score"]}
+        for country, details in sorted_countries
+        if details["score"] > 0
+    ]
 
     return JsonResponse({"results": result})
-
-
-        
