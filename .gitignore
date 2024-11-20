@@ -1,3 +1,4 @@
 /country_models/*
 **/models/**
 venv
+__pycache__/

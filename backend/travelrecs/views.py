@@ -1,75 +1,73 @@
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
-import torch
-from transformers import AutoTokenizer, AutoModel
 import pycountry
 import re
 from typing import List, Dict
-import numpy as np
 from nltk.corpus import wordnet
+import os
+from rank_bm25 import BM25Okapi
+import pickle
+import json
 
-class SimilarityService:
-    def __init__(self):
-        # Load BERT model and tokenizer
-        self.tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
-        self.model = AutoModel.from_pretrained('bert-base-uncased')
-        
-        # Filter and prepare countries list
-        self.countries = [
-            {"name": country.name, "code": country.alpha_3}
-            for country in pycountry.countries
-            if "island" not in country.name.lower() and "islands" not in country.name.lower()
-        ]
+#load data and alpha_3 code for each country
+index_dir = "./travelrecs/bm25_index/"
+corpus_file = os.path.join(index_dir, "bm25_corpus.pkl")
+metadata_file = os.path.join(index_dir, "metadata.json")
 
-    def expand_query(query_tokens):
-        expanded = set()
+bm25 = None
+country_to_index = {}
+country_metadata = {}
 
-        for word in query_tokens:
-            synonyms = wordnet.synsets(word)
-            for syn in synonyms:
-                for lemma in syn.lemmas():
-                    expanded.add(lemma.name())  
-        
-        return list(expanded)
+def expand_query(query: str, max_synonyms: int = 3) -> List[str]:
+    query_tokens = query.split()
+    expanded_query = set(query_tokens)  
 
+    for token in query_tokens:
+        synonyms = []
+        for synset in wordnet.synsets(token):
+            for lemma in synset.lemmas():
+                synonym = lemma.name().replace("_", " ").lower()
+                if synonym != token and synonym not in synonyms:
+                    synonyms.append(synonym)
+                    if len(synonyms) >= max_synonyms:
+                        break
+            if len(synonyms) >= max_synonyms:
+                break
 
-    def _get_bert_embedding(self, text: str) -> torch.Tensor:
-        # Add special tokens and convert to tensor
-        inputs = self.tokenizer(text, return_tensors="pt", padding=True, truncation=True)
-        
-        # Get BERT embeddings
-        with torch.no_grad():
-            outputs = self.model(**inputs)
-            
-        # Use the [CLS] token embedding as the sentence embedding
-        return outputs.last_hidden_state[:, 0, :].squeeze()
+        expanded_query.update(synonyms)
 
-    def calculate_similarity(self, text1: str, text2: str) -> float:
-        emb1 = self._get_bert_embedding(text1)
-        emb2 = self._get_bert_embedding(text2)
-        
-        similarity = torch.nn.functional.cosine_similarity(emb1.unsqueeze(0), emb2.unsqueeze(0))
-        return float(similarity)
+    return list(expanded_query)
 
-    def get_country_scores(self, query: str) -> List[Dict]:
-        if not query.strip():
-            return []
+def clean_text(text: str) -> str:
+    text = re.sub(r"[^a-zA-Z\s]", "", text)
+    return re.sub(r"\s+", " ", text).strip()
 
-        scores = []
-        for country in self.countries:
-            country_name = country["name"]
-            score = self.calculate_similarity(country_name, query)
-            
-            scores.append({
-                "name": country_name,
-                "code": country["code"],
-                "score": score
-            })
+def get_country_alpha3(country_name: str) -> str:
+    try:
+        country = pycountry.countries.lookup(country_name)
+        return country.alpha_3
+    except LookupError:
+        return None
+    
+def load_bm25_index():
+    global bm25, country_to_index, country_metadata
 
-        return sorted(scores, key=lambda x: x["score"], reverse=True)
+    with open(corpus_file, "rb") as f:
+        tokenized_corpus = pickle.load(f)
 
-# Initialize the service
-similarity_service = SimilarityService()
+    with open(metadata_file, "r") as f:
+        country_metadata = json.load(f)
+
+    # Rebuild the BM25 index
+    corpus = []
+    for idx, country in enumerate(country_metadata["countries"]):
+        for document in tokenized_corpus[country]:
+            corpus.append(document)
+            country_to_index[len(corpus) - 1] = country
+
+    bm25 = BM25Okapi(corpus, k1=1.5, b=.9)
+
+load_bm25_index()
 
 def home(request):
     return HttpResponse("Hello, world!")
@@ -81,11 +79,26 @@ def query(request):
     query = request.GET.get("query", "").strip()
     if not query:
         return JsonResponse({"error": "missing request arg 'query'"}, status=400)
+    
+    #perform bm_25 on each country doc, return list of countries, their score and alpha_3 codes in order
+    # Expand the user query
+    expanded_query = expand_query(query)
+    print(expanded_query)
+    tokenized_query = clean_text(" ".join(expanded_query)).split()
 
-    try:
-        results = similarity_service.get_country_scores(query)
-        return JsonResponse({
-            "results": [r for r in results if r["score"] > 0]
-        })
-    except Exception as e:
-        return JsonResponse({"error": str(e)}, status=500)
+    # Perform BM25 scoring
+    scores = bm25.get_scores(tokenized_query)
+
+    ranked_results = {}
+    for idx, score in enumerate(scores):
+        country = country_to_index[idx]
+        ranked_results[country] = ranked_results.get(country, 0) + score
+
+    sorted_results = sorted(ranked_results.items(), key=lambda x: x[1], reverse=True)
+
+    results = []
+    for country, score in sorted_results:
+        alpha_3 = get_country_alpha3(country)
+        results.append({"country": country, "score": score, "alpha_3": alpha_3})
+
+    return JsonResponse({"results": results}, safe=False)
