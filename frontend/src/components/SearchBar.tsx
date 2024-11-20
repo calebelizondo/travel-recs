@@ -5,12 +5,14 @@ import { CountryInfo } from '../types';
 
 interface SearchBarProps {
   setQueryResult: (result: CountryInfo[] | null) => void;
+  setIsLoading: (isLoading: boolean) => void;
 }
 
-const SearchBar: React.FC<SearchBarProps> = ({ setQueryResult }) => {
+const SearchBar: React.FC<SearchBarProps> = ({ setQueryResult, setIsLoading }) => {
   const [query, setQuery] = useState('');
 
   const handleSearch = async () => {
+    setIsLoading(true);
     try {
       const response = await fetch(`http://localhost:8000/query/?query=${encodeURIComponent(query)}`);
       if (response.ok) {

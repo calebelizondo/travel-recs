@@ -2,3 +2,5 @@ gensim
 numpy
 django
 django-cors-headers
+transformers
+torch

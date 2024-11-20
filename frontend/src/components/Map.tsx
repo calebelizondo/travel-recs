@@ -19,7 +19,7 @@ interface MapProps {
 
 const Map: React.FC<MapProps> = ({queryResult}) => {
 
-  const cutoff = 20;
+  const cutoff = 15;
 
 
   const country_codes = Array.isArray(queryResult)
