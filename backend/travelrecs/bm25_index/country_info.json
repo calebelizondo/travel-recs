@@ -294,7 +294,7 @@
     },
     "switzerland": {
         "bio": "Switzerland is a picturesque country known for its stunning alpine landscapes, charming villages, and high-quality luxury goods. Visitors flock to destinations like Zurich, Lucerne, Interlaken, and Zermatt for outdoor activities such as skiing, hiking, and exploring the iconic Matterhorn. Switzerland is famous for its precision watchmaking, delicious chocolates, and efficient public transportation system. The country is also home to numerous beautiful lakes and valleys, offering endless opportunities for relaxation and adventure. Don't miss the chance to ride the scenic Glacier Express train through the heart of the Swiss Alps.",
-        "climate": [],
+        "climate": ["cold"],
         "cost": 3
     },
     "chile": {

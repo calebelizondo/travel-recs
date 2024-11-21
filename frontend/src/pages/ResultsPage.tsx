@@ -11,6 +11,8 @@ const ResultsPage: React.FC<ResultsPageProps> = ({queryResult}) => {
         hot: "🌞",
         cold: "❄️",
         humid: "💧",
+        dry: "🌵",  
+        mild: "🌤️",
     };
 
     const costSymbols: { [key in Cost]: string } = {
@@ -18,7 +20,7 @@ const ResultsPage: React.FC<ResultsPageProps> = ({queryResult}) => {
         2: "$$",
         3: "$$$",
     };
-    
+
     const results = queryResult.slice(0, cutoff);
     
     return (

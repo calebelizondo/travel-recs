@@ -3,11 +3,18 @@ from django.http import HttpResponse, JsonResponse
 import pycountry
 import re
 from typing import List, Dict
-from nltk.corpus import wordnet
+import nltk
+from nltk.data import find
+from nltk import download
 import os
 from rank_bm25 import BM25Okapi
 import pickle
 import json
+
+try:
+    find('corpora/wordnet.zip')
+except LookupError:
+    download('wordnet')
 
 #load data and alpha_3 code for each country
 index_dir = "./travelrecs/bm25_index/"
@@ -26,7 +33,7 @@ def expand_query(query: str, max_synonyms: int = 2) -> List[str]:
 
     for token in query_tokens:
         synonyms = []
-        for synset in wordnet.synsets(token):
+        for synset in nltk.corpus.wordnet.synsets(token):
             for lemma in synset.lemmas():
                 synonym = lemma.name().replace("_", " ").lower()
                 if synonym != token and synonym not in synonyms:

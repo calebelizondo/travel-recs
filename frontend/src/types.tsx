@@ -1,4 +1,4 @@
-export type Climate = 'hot' | 'cold' | 'humid';
+export type Climate = 'hot' | 'cold' | 'humid' | "dry" | "mild";
 export type Cost = 1 | 2 | 3;
 
 

@@ -19,7 +19,11 @@ const MapePage: React.FC<MapPageProps> = ({ queryResult, targetDiv, isLoading })
                     <div className="spinner"></div>
                 </div>
             ) : (
-                <Map queryResult={queryResult} />
+                <>
+                    <br />
+                    <br />
+                    <Map queryResult={queryResult} />
+                </>
             )}
         </div>
     );
