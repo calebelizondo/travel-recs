@@ -1,0 +1,43 @@
+
+.sticky-bar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+  
+
+.filter-buttons-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+  
+.filter-button {
+    padding: 8px 16px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #f0f0f0; 
+}
+  
+.filter-button.active {
+    background-color: #007bff;
+    color: white;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    border-color: #007bff; 
+}
+  
+.filter-button.inactive {
+    background-color: #f0f0f0;
+    color: #555;
+    box-shadow: none;
+    border-color: #ccc;
+}
+  
+.filter-button:hover {
+    opacity: 0.8;
+}
+  

@@ -132,3 +132,7 @@
     width: 100%;
     gap: 20px; 
   }
+
+  .greeting {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

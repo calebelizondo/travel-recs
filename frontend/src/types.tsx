@@ -1,4 +1,4 @@
-export type Climate = 'hot' | 'cold' | 'humid' | "dry" | "mild";
+export type Climate = 'hot' | 'cold' | 'humid';
 export type Cost = 1 | 2 | 3;
 
 
@@ -23,9 +23,7 @@ export const cutoff = 12;
 export const climateIcons: { [key in Climate]: string } = {
   hot: "🌞",
   cold: "❄️",
-  humid: "💧",
-  dry: "🌵",  
-  mild: "🌤️",
+  humid: "💧"
 };
 
 export const costSymbols: { [key in Cost]: string } = {

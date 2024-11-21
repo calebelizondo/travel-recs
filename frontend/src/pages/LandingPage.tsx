@@ -12,7 +12,7 @@ interface LandingPageProps {
 const LandingPage: React.FC<LandingPageProps> = ({setQueryResult, setIsLoading, query, setQuery}) => {
     return <div className="landing-page-container">
         <div className="landing-page-content">
-            <p>Where to?</p>
+            <h1 className='greeting'><i>Where to next, traveler?</i></h1>
             <SearchBar setQueryResult={setQueryResult} setIsLoading={setIsLoading} query={query} setQuery={setQuery}></SearchBar>
         </div>
 
