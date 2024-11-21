@@ -16,5 +16,6 @@ export interface CountryInfo {
       climate: Climate[], 
       cost: Cost
     } 
-  }
+}
 
+export const cutoff = 12;

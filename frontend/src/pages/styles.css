@@ -110,3 +110,11 @@
     color: #2d72d9;
   }
   
+
+.country-header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: last baseline;
+    width: 100%;
+    gap: 20px; 
+  }

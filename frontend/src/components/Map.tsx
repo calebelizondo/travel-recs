@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
 import worldGeoJson from '../assets/map.json'; 
-import { CountryInfo } from '../types';
+import { CountryInfo, cutoff } from '../types';
 
 interface GeographyFeature {
   rsmKey: any;
@@ -18,9 +18,6 @@ interface MapProps {
 }
 
 const Map: React.FC<MapProps> = ({queryResult}) => {
-
-  const cutoff = 12;
-
 
   const country_codes = Array.isArray(queryResult)
     ? queryResult.slice(0, cutoff).map((c: CountryInfo) => c.code)

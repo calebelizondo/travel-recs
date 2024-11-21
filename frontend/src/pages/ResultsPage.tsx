@@ -1,4 +1,4 @@
-import { CountryInfo, Climate, Cost } from "../types"
+import { CountryInfo, Climate, Cost, cutoff } from "../types"
 
 interface ResultsPageProps {
     queryResult: CountryInfo[] | null;
@@ -19,24 +19,29 @@ const ResultsPage: React.FC<ResultsPageProps> = ({queryResult}) => {
         3: "$$$",
     };
     
-  return (
-    <div className="results-container">
-      {queryResult.map((country) => (
-        <div className="country-card" key={country.code}>
-          <h2 className="country-name">{country.name.toUpperCase()}</h2>
-          <p className="country-bio">{country.info.bio}</p>
-          <div className="country-climate">
-            {country.info.climate.map((climate) => (
-              <span key={climate} className="climate-icon">
-                {climateIcons[climate]}
-              </span>
-            ))}
-          </div>
-          <div className="country-cost">{costSymbols[country.info.cost]}</div>
+    const results = queryResult.slice(0, cutoff);
+    
+    return (
+        <div className="results-container">
+        {results.map((country) => (
+            <div className="country-card" key={country.code}>
+            <div className="country-header">
+                <h2 className="country-name">{country.name.toUpperCase()}</h2>
+                    <div className="country-climate">
+                    {country.info.climate.map((climate) => (
+                    <span key={climate} className="climate-icon">
+                        {climateIcons[climate]}
+                    </span>
+                    ))}
+                </div>
+                <div className="country-cost">{costSymbols[country.info.cost]}</div>
+            </div>
+            
+            <p className="country-bio">{country.info.bio}</p>
+            </div>
+        ))}
         </div>
-      ))}
-    </div>
-  );
+    );
 };
 
 export default ResultsPage;

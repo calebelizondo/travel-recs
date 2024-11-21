@@ -1,8 +1,5 @@
-gensim
-numpy
 django
 django-cors-headers
-transformers
 torch
 pycountry
 rank_bm25
