@@ -11,10 +11,15 @@ interface SearchBarProps {
 const SearchBar: React.FC<SearchBarProps> = ({ setQueryResult, setIsLoading }) => {
   const [query, setQuery] = useState('');
 
+  const baseUrl =
+    process.env.NODE_ENV === 'production'
+      ? 'https://travel-recs-backend.onrender.com/'
+      : 'http://localhost:8000';
+
   const handleSearch = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch(`http://localhost:8000/query/?query=${encodeURIComponent(query)}`);
+      const response = await fetch(`${baseUrl}/query/?query=${encodeURIComponent(query)}`);
       if (response.ok) {
         const result: {results: CountryInfo[]} = await response.json();
         setQueryResult(result.results);

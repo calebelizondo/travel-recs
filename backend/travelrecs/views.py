@@ -18,7 +18,7 @@ bm25 = None
 country_to_index = {}
 country_metadata = {}
 
-def expand_query(query: str, max_synonyms: int = 3) -> List[str]:
+def expand_query(query: str, max_synonyms: int = 2) -> List[str]:
     query_tokens = query.split()
     expanded_query = set(query_tokens)  
 
@@ -39,7 +39,7 @@ def expand_query(query: str, max_synonyms: int = 3) -> List[str]:
     return list(expanded_query)
 
 def clean_text(text: str) -> str:
-    text = re.sub(r"[^a-zA-Z\s]", "", text)
+    text = re.sub(r"[^a-zA-Z\s]", "", text.lower())
     return re.sub(r"\s+", " ", text).strip()
 
 def get_country_alpha3(country_name: str) -> str:
@@ -65,7 +65,7 @@ def load_bm25_index():
             corpus.append(document)
             country_to_index[len(corpus) - 1] = country
 
-    bm25 = BM25Okapi(corpus, k1=1.5, b=.9)
+    bm25 = BM25Okapi(corpus, k1=1.2, b=.9)
 
 load_bm25_index()
 
@@ -99,6 +99,6 @@ def query(request):
     results = []
     for country, score in sorted_results:
         alpha_3 = get_country_alpha3(country)
-        results.append({"country": country, "score": score, "alpha_3": alpha_3})
+        results.append({"name": country, "score": score, "code": alpha_3})
 
     return JsonResponse({"results": results}, safe=False)

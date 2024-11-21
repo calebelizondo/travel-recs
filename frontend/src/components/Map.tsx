@@ -19,7 +19,7 @@ interface MapProps {
 
 const Map: React.FC<MapProps> = ({queryResult}) => {
 
-  const cutoff = 15;
+  const cutoff = 12;
 
 
   const country_codes = Array.isArray(queryResult)
@@ -47,7 +47,7 @@ const Map: React.FC<MapProps> = ({queryResult}) => {
                     strokeWidth={0.5}
                     style={{
                     default: { outline: 'none' },
-                    hover: { fill: isHighlighted ? 'blue' : '#0064df', transition: 'all 0.3s' },
+                    hover: { fill: isHighlighted ? 'blue' : '#EAEAEA', transition: 'all 0.3s' },
                     }}
                 />
                 );
