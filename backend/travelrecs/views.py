@@ -27,7 +27,7 @@ country_to_index = {}
 country_metadata = {}
 country_info = {}
 
-def expand_query(query: str, max_synonyms: int = 2) -> List[str]:
+def expand_query(query: str, max_synonyms: int = 1) -> List[str]:
     query_tokens = query.split()
     expanded_query = set(query_tokens)  
 

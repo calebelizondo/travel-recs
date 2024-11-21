@@ -19,7 +19,7 @@ const ResultsPage: React.FC<ResultsPageProps> = ({queryResult}) => {
     return (
         <div className="results-container">
         {results.map((country) => (
-            <div className="country-card" key={country.code}>
+            <div className="country-card" key={country.code} id={`country-${country.code}`}>
             <div className="country-header">
                 <h2 className="country-name">{country.name.toUpperCase()}</h2>
                     <div className="country-climate">

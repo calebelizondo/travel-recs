@@ -23,7 +23,13 @@ const Map: React.FC<MapProps> = ({queryResult}) => {
     ? queryResult.slice(0, cutoff).map((c: CountryInfo) => c.code)
     : [];
 
-  console.log("country codes:", country_codes)
+  const scrollToCountry = (countryCode: string) => {
+    console.log("triggered");
+    const targetDiv = document.getElementById(`country-${countryCode}`);
+    if (targetDiv) {
+      targetDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  };
 
 
   return (
@@ -46,6 +52,7 @@ const Map: React.FC<MapProps> = ({queryResult}) => {
                     default: { outline: 'none' },
                     hover: { fill: isHighlighted ? 'blue' : '#EAEAEA', transition: 'all 0.3s' },
                     }}
+                    onClick={() => scrollToCountry(geo.properties.ISO_A3)}
                 />
                 );
             })
