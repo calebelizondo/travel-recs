@@ -10,7 +10,7 @@ interface MapPageProps {
 
 const MapePage: React.FC<MapPageProps> = ({ queryResult, targetDiv, isLoading }) => {
 
-    if (queryResult === null && isLoading === false) return <></>;
+    if ((queryResult === null || queryResult.length === 0) && isLoading === false) return <></>;
 
     return (
         <div className="map-page-container" ref={targetDiv}>

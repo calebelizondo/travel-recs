@@ -1,12 +1,12 @@
 {
-    "Aruba": {
+    "aruba": {
         "bio": "Aruba is a small Caribbean island known for its white-sand beaches, crystal-clear waters, and year-round sunny weather. The island is a popular destination for beach lovers and water sports enthusiasts, offering activities such as snorkeling, scuba diving, and windsurfing. Visitors can explore the colorful capital city of Oranjestad, relax on the picturesque Eagle Beach, or visit the beautiful Arikok National Park. Aruba also boasts a vibrant culinary scene with a mix of local and international cuisines, as well as a lively nightlife with casinos and beach bars.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Afghanistan": {
+    "afghanistan": {
         "bio": "Afghanistan is a landlocked country in South Asia known for its rich history and rugged landscapes. Tourists can explore ancient cities like Kabul and Herat, visit stunning mosques and shrines, and trek through the breathtaking Hindu Kush mountains. The country is also famous for its many historical sites, such as the ancient city of Balkh and the Buddhas of Bamyan. Afghanistan's cuisine offers a unique blend of flavors, with dishes like kebabs, palaw, and mantu. Despite its troubled history, Afghanistan is home to warm and welcoming people who are eager to share their culture.",
         "climate": [
             "hot",
@@ -14,7 +14,7 @@
         ],
         "cost": 2
     },
-    "Angola": {
+    "angola": {
         "bio": "Angola, located in southern Africa, boasts a diverse landscape ranging from stunning beaches to lush rainforests. Visitors can explore the vibrant capital city of Luanda with its mix of colonial and modern architecture. Popular attractions include the Tunda-Vala Volcano and Kissama National Park, home to a wide array of wildlife. Angola has a rich cultural heritage, evident in its traditional music and dance. Interesting facts include being one of the world's largest diamond producers and having a unique blend of Portuguese and African influences.",
         "climate": [
             "hot",
@@ -22,7 +22,7 @@
         ],
         "cost": 2
     },
-    "Anguilla": {
+    "anguilla": {
         "bio": "Anguilla is a small Caribbean island known for its stunning beaches, crystal clear waters, and laid-back atmosphere. The island offers a tranquil escape for visitors looking to relax and unwind in a luxurious setting. Popular tourist destinations include Shoal Bay, Meads Bay, and Rendezvous Bay, which are perfect for snorkeling, swimming, or simply soaking up the sun. Anguilla is also home to a vibrant food scene, with an array of restaurants offering delicious seafood and local dishes. Fun fact: The island has some of the friendliest and welcoming locals in the Caribbean.",
         "climate": [
             "hot",
@@ -30,12 +30,12 @@
         ],
         "cost": 3
     },
-    "Åland Islands": {
+    "aland islands": {
         "bio": "Åland Islands are an autonomous region of Finland known for their stunning natural beauty and rich maritime history. Comprising over 6,000 islands, only around 60 are inhabited, offering a peaceful and idyllic retreat for visitors. Travelers can explore picturesque villages, historic sites, and enjoy outdoor activities such as hiking, cycling, and sailing. The islands are also a great destination for birdwatching and enjoying the unique archipelago landscape. Don't miss the Maritime Quarter in Mariehamn, with its museums and historic ships. Åland Islands are a hidden gem in the Baltic Sea waiting to be discovered.",
         "climate": [],
         "cost": 2
     },
-    "Albania": {
+    "albania": {
         "bio": "Albania, located in Southeast Europe, is known for its beautiful coastline along the Adriatic and Ionian Seas. The country is a blend of stunning landscapes, rich history, and vibrant culture. Visitors can explore ancient ruins in Butrint, relax on the beaches of Saranda, or hike in the scenic Albanian Alps. Tirana, the capital city, offers a mix of Ottoman, Soviet, and contemporary architecture. Albania is also home to delicious Mediterranean cuisine and warm hospitality. Fun fact: Albania has 13 national parks, making it a great destination for nature lovers.",
         "climate": [
             "hot",
@@ -43,29 +43,29 @@
         ],
         "cost": 1
     },
-    "Andorra": {
+    "andorra": {
         "bio": "Andorra is a charming microstate nestled in the Pyrenees mountains between France and Spain. Known for its picturesque landscapes and duty-free shopping, this small country offers stunning views and outdoor recreational activities such as skiing, hiking, and mountain biking. Visitors can explore quaint villages like Andorra la Vella, the capital city, and enjoy the rich Catalan culture and cuisine. Must-see attractions include Casa de la Vall, a historic house of parliament, and Sant Joan de Caselles, a Romanesque church. Andorra is a great destination for nature lovers and adventure seekers.",
         "climate": [],
         "cost": 2
     },
-    "United Arab Emirates": {
+    "united arab emirates": {
         "bio": "The United Arab Emirates is a Middle Eastern country known for its modern architecture, luxury shopping, and vibrant nightlife. The iconic city of Dubai features the towering Burj Khalifa, man-made Palm Jumeirah island, and extravagant shopping malls. Abu Dhabi, the capital, is home to the stunning Sheikh Zayed Grand Mosque and the opulent Emirates Palace. Visitors can also explore the traditional markets, called souks, and enjoy the desert landscapes through activities like dune bashing and camel riding. The UAE offers a unique blend of modernity and heritage, making it a popular destination for travelers.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Argentina": {
+    "argentina": {
         "bio": "Argentina is a vibrant country known for its passionate tango dance, delicious cuisine, and stunning landscapes. Visit Buenos Aires to explore its European-style architecture and vibrant cultural scene. Head to the majestic Iguazu Falls, one of the largest waterfalls in the world, or the otherworldly landscapes of Patagonia. Don't miss the opportunity to taste Argentina's famous beef dishes and world-class wines. The country is also home to vibrant street art and a rich gaucho (cowboy) culture. With a mix of city life, natural wonders, and cultural experiences, Argentina offers a diverse and unforgettable travel experience.",
         "climate": [],
         "cost": 2
     },
-    "Armenia": {
+    "armenia": {
         "bio": "Armenia, located at the crossroads of Europe and Asia, is known for its rich history, stunning landscapes, and warm hospitality. The country boasts ancient monasteries, such as Geghard and Tatev, picturesque countryside in places like Dilijan National Park, and the unique rock formations of Garni Gorge. Visitors can explore the vibrant capital city of Yerevan, sample delicious Armenian cuisine, and soak in the natural hot springs at Jermuk. Armenia also offers a glimpse into its troubled past with sites like the Armenian Genocide Memorial Complex. With a blend of culture, history, and nature, Armenia is a fascinating destination for travelers.",
         "climate": [],
         "cost": 2
     },
-    "American Samoa": {
+    "american samoa": {
         "bio": "American Samoa is a remote U.S. territory in the South Pacific known for its stunning natural beauty, including lush rainforests, crystal-clear waters, and pristine beaches. The culture of American Samoa is deeply rooted in Polynesian traditions, with a strong emphasis on communal living and respect for elders. Must-visit destinations include the National Park of American Samoa, where you can hike, snorkel, and learn about the local wildlife. Another popular spot is the Tauese P.F. Sunia Ocean Center, showcasing the rich marine biodiversity of the region. Visitors can also experience traditional Samoan dance performances and feasts.",
         "climate": [
             "hot",
@@ -73,26 +73,26 @@
         ],
         "cost": 2
     },
-    "Antarctica": {
+    "antarctica": {
         "bio": "Antarctica is the southernmost continent on Earth, known for its breathtaking icy landscapes and unique wildlife such as penguins and seals. Popular tourist destinations include the Antarctic Peninsula, South Shetland Islands, and Ross Sea. Visitors can enjoy activities like iceberg watching, whale watching, and exploring research stations. Antarctica has no indigenous population and is governed by the Antarctic Treaty System. It is a hub for scientific research and a once-in-a-lifetime destination for adventurous travelers seeking pristine wilderness and unparalleled natural beauty.",
         "climate": [
             "cold"
         ],
         "cost": 3
     },
-    "French Southern Territories": {
+    "french southern territories": {
         "bio": "French Southern Territories is a remote and sparsely populated overseas territory of France located in the southern Indian Ocean. The archipelago consists of several islands and is known for its stunning natural landscapes, including glaciers, mountains, and unique wildlife such as penguins and seals. Tourists can visit the remote Îles Kerguelen, explore the rugged terrain of Amsterdam Island, or take a boat tour to see the diverse marine life. As a French territory, visitors can experience a blend of French and local cultures. French Southern Territories offers a truly off-the-beaten-path travel experience for nature enthusiasts and adventure seekers.",
         "climate": null,
         "cost": 2
     },
-    "Antigua and Barbuda": {
+    "antigua and barbuda": {
         "bio": "Antigua and Barbuda is a stunning twin-island nation located in the Caribbean. Known for its beautiful white sandy beaches and crystal-clear waters, it is a popular destination for beach lovers and water sports enthusiasts. The islands also offer a rich history with landmarks such as Nelson's Dockyard, a UNESCO World Heritage Site. Visitors can enjoy activities like snorkeling, sailing, and exploring the lush rainforests. With a vibrant culture, colorful festivals, and delicious local cuisine, Antigua and Barbuda have something to offer for every traveler.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Australia": {
+    "australia": {
         "bio": "Australia is a vast and diverse country known for its stunning landscapes, unique wildlife, and vibrant cities. Visitors can explore iconic landmarks like the Sydney Opera House, Great Barrier Reef, and Uluru. Outdoor enthusiasts can enjoy activities such as surfing at Bondi Beach, hiking in the Blue Mountains, and diving with whale sharks in Ningaloo Reef. Australia is home to interesting wildlife like kangaroos, koalas, and the elusive platypus. The country has a rich indigenous culture, with opportunities to learn about Aboriginal art and traditions. Foodies can delight in fresh seafood, gourmet cuisine, and world-class wines.",
         "climate": [
             "hot",
@@ -100,12 +100,12 @@
         ],
         "cost": 2
     },
-    "Austria": {
+    "austria": {
         "bio": "Austria, known for its stunning Alpine landscapes, historic cities, and rich cultural heritage, offers visitors a unique blend of natural beauty and architectural wonders. The capital city, Vienna, is famous for its elegant coffee houses, imperial palaces, and classical music heritage. Salzburg, the birthplace of Mozart, is a picturesque city with charming old town and majestic fortress. The alpine region of Tyrol is perfect for outdoor enthusiasts with its ski resorts and hiking trails. Don't miss the enchanting Lake Hallstatt and the beautiful Danube Valley. Austria is also celebrated for its delicious pastries and world-class skiing.",
         "climate": [],
         "cost": 2
     },
-    "Azerbaijan": {
+    "azerbaijan": {
         "bio": "Azerbaijan, a country at the crossroads of Eastern Europe and Western Asia, is known for its rich blend of history and modernity. The capital city, Baku, features a striking mix of ancient architecture and futuristic skyscrapers. Tourists can visit the UNESCO-listed Old City, explore the vibrant markets, or relax on the shores of the Caspian Sea. Nature lovers will enjoy the diverse landscapes, from the mud volcanoes of Gobustan to the lush forests of Gabala. Azerbaijan is also famous for its traditional hospitality and delicious cuisine, with dishes like plov and kebabs showcasing the country's culinary heritage.",
         "climate": [
             "hot",
@@ -113,21 +113,21 @@
         ],
         "cost": 2
     },
-    "Burundi": {
+    "burundi": {
         "bio": "Burundi is a landlocked country in East Africa known for its stunning green landscapes and beautiful mountains. The country is rich in culture and history, with vibrant traditional dances and crafts. Tourists can visit Lake Tanganyika, one of the longest freshwater lakes in the world, for water activities and relaxation. The Rusizi National Park offers the chance to see hippos, crocodiles, and a variety of bird species. Burundi also has a tumultuous history, with ethnic conflict and civil war shaping its past. Despite its challenges, Burundi is a resilient nation with welcoming locals.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Belgium": {
+    "belgium": {
         "bio": "Belgium is known for its medieval towns, Renaissance architecture, and delicious chocolate. The country is famous for its waffles, beer, and fries. Tourists can visit the stunning Grand Place in Brussels, the historic city of Bruges with its picturesque canals, and the bustling city of Antwerp. Belgium is also home to beautiful countryside, charming villages, and numerous museums showcasing art and history. Visitors can explore the Ardennes region for outdoor activities such as hiking and cycling. Don't forget to try the famous Belgian chocolates and beers during your stay!",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Benin": {
+    "benin": {
         "bio": "Benin, located in West Africa, is known for its rich history and diverse culture. Visitors can explore the ancient Kingdom of Dahomey, which has historical sites such as the Royal Palaces of Abomey. The vibrant city of Cotonou offers bustling markets and beautiful beaches along the Atlantic coast. Visitors can also witness the traditional Voodoo ceremonies that are an integral part of Benin's culture. Benin is also home to the Pendjari National Park, where tourists can spot a variety of wildlife including elephants and lions.",
         "climate": [
             "hot",
@@ -135,7 +135,7 @@
         ],
         "cost": 2
     },
-    "Bonaire, Sint Eustatius and Saba": {
+    "bonaire, sint eustatius and saba": {
         "bio": "Bonaire, Sint Eustatius, and Saba are three special municipalities of the Netherlands in the Caribbean. Bonaire is known for its world-class diving sites and vibrant marine life, including the Bonaire National Marine Park. Sint Eustatius offers historic sites like Fort Oranje and great diving opportunities at the STINAPA Marine Park. Saba is a volcanic island with the challenging Mount Scenery trek and the picturesque village of Windwardside. Visitors can enjoy the laid-back Caribbean atmosphere, beautiful beaches, and unique culture found across these islands.",
         "climate": [
             "hot",
@@ -143,7 +143,7 @@
         ],
         "cost": 2
     },
-    "Burkina Faso": {
+    "burkina faso": {
         "bio": "Burkina Faso, a landlocked country in West Africa, is known for its rich cultural heritage and traditional crafts. Visitors can explore the vibrant markets in Ouagadougou, the capital city, and experience local music and dance performances. Tourists also flock to the Nazinga Game Ranch to see elephants, hippos, and other wildlife up close. Burkina Faso offers a unique opportunity to immerse oneself in the culture and traditions of the Mossi people. Don't miss the impressive Ruins of Loropéni, a UNESCO World Heritage Site.",
         "climate": [
             "hot",
@@ -151,7 +151,7 @@
         ],
         "cost": 1
     },
-    "Bangladesh": {
+    "bangladesh": {
         "bio": "Bangladesh is a vibrant country located in South Asia, known for its bustling cities, lush landscapes, and rich cultural heritage. Visitors can explore the historic city of Dhaka, with its colorful rickshaws and bustling markets, or relax on the pristine beaches of Cox's Bazar, the longest natural sea beach in the world. The Sundarbans mangrove forest is a UNESCO World Heritage Site and home to the Royal Bengal tiger. With a diverse culinary scene, fascinating history, and warm hospitality, Bangladesh offers a unique and unforgettable travel experience.",
         "climate": [
             "hot",
@@ -159,7 +159,7 @@
         ],
         "cost": 1
     },
-    "Bulgaria": {
+    "bulgaria": {
         "bio": "Bulgaria is a European gem, known for its stunning landscapes, rich history, and vibrant culture. Visitors can explore ancient ruins, charming medieval towns, and beautiful beaches along the Black Sea coast. The capital city, Sofia, is a mix of architectural styles with attractions like Alexander Nevsky Cathedral and Vitosha Mountain nearby for outdoor enthusiasts. Don't miss the historic town of Plovdiv, a designated UNESCO World Heritage site. Bulgaria also offers delicious cuisine and traditional folk music and dance performances. A fascinating fact is that Bulgaria is home to the Rila Monastery, one of the oldest and most important monasteries in the country.",
         "climate": [
             "hot",
@@ -167,7 +167,7 @@
         ],
         "cost": 1
     },
-    "Bahrain": {
+    "bahrain": {
         "bio": "Bahrain, a tiny island country in the Middle East, offers a unique blend of modern city life and ancient history. Visitors can explore the ancient Qal'at al-Bahrain fort, enjoy shopping at the traditional souks, and relax on the pristine beaches. The country is known for its Formula One Grand Prix circuit and the Tree of Life, a 400-year-old tree growing in the desert. Bahrain is also famous for its pearl diving heritage and delicious cuisine influenced by Persian, Indian, and Arabic flavors.",
         "climate": [
             "hot",
@@ -175,7 +175,7 @@
         ],
         "cost": 2
     },
-    "Bahamas": {
+    "bahamas": {
         "bio": "The Bahamas is a Caribbean paradise known for its stunning beaches, crystal-clear waters, and vibrant marine life. With over 700 islands and cays, it offers a variety of experiences from relaxing on beautiful white sand beaches to exploring historic towns and enjoying water sports. Popular tourist destinations include Nassau, the capital city, and the Exuma Cays, known for their swimming pigs. The Bahamas is also home to the third largest barrier reef in the world, making it a top destination for diving and snorkeling enthusiasts.",
         "climate": [
             "hot",
@@ -183,7 +183,7 @@
         ],
         "cost": 2
     },
-    "Bosnia and Herzegovina": {
+    "bosnia and herzegovina": {
         "bio": "Bosnia and Herzegovina is a charming country located in Southeastern Europe, known for its stunning natural beauty, rich history, and diverse cultural heritage. Visitors can explore the picturesque Old Bridge in Mostar, the historic town of Sarajevo, and the beautiful countryside dotted with medieval villages. Don't miss the opportunity to try the delicious traditional Bosnian cuisine and immerse yourself in the warm hospitality of the locals. For outdoor enthusiasts, the country offers plenty of opportunities for hiking, rafting, and skiing. Bosnia and Herzegovina is a hidden gem waiting to be discovered.",
         "climate": [
             "hot",
@@ -191,21 +191,21 @@
         ],
         "cost": 2
     },
-    "Saint Barthélemy": {
+    "saint barthélemy": {
         "bio": "Saint Barthélemy, also known as St. Barts, is a picturesque Caribbean island known for its glamorous vibe and upscale resorts. The island is characterized by its stunning beaches, crystal-clear waters, and delicious French cuisine. Popular tourist destinations include Gustavia, the capital known for its luxury boutiques and restaurants, and beautiful beaches such as St. Jean and Lorient. St. Barts is also famous for its annual sailing regatta, Les Voiles de Saint-Barth. The island's small size and exclusivity make it a sought-after destination for the wealthy and celebrities.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Belarus": {
+    "belarus": {
         "bio": "Belarus, located in Eastern Europe, is known for its rich history, beautiful architecture, and picturesque landscapes. One of its most popular destinations is the Mir Castle Complex, a UNESCO World Heritage Site. Visitors can explore the vibrant capital city of Minsk, home to impressive churches and museums. Nature lovers can enjoy the stunning Belovezhskaya Pushcha National Park, one of the last primeval forests in Europe. Belarus is also famous for its warm hospitality and delicious cuisine, including dishes like draniki (potato pancakes) and machanka (pork stew).",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Belize": {
+    "belize": {
         "bio": "Belize, located in Central America, is known for its stunning tropical landscapes, crystal-clear waters, and rich cultural heritage. Visitors can explore ancient Mayan ruins, relax on beautiful beaches, and experience the vibrant marine life of the Belize Barrier Reef, the second largest reef system in the world. Adventure seekers can enjoy activities like snorkeling, diving, and zip-lining through the lush rainforests. Belize is also a melting pot of different cultures, with influences from Maya, Garifuna, Mestizo, and Creole communities. Don't miss the chance to try traditional dishes like stew chicken and fry jacks.",
         "climate": [
             "hot",
@@ -213,14 +213,14 @@
         ],
         "cost": 2
     },
-    "Bermuda": {
+    "bermuda": {
         "bio": "Bermuda is a stunning island in the North Atlantic known for its pink sand beaches and turquoise waters. Its fascinating blend of British and African culture is evident in its architecture, cuisine, and traditions. Visitors can explore historic sites such as the Royal Naval Dockyard and St. George, a UNESCO World Heritage Site. Nature lovers can admire the crystal clear waters while snorkeling or diving in the vibrant coral reefs. Don't miss the popular Horseshoe Bay Beach for relaxation and stunning views. Bermuda also offers unique attractions like the Crystal Caves and the quirky Somerset Bridge, the world's smallest drawbridge.",
         "climate": [
             "humid"
         ],
         "cost": 2
     },
-    "Bolivia, Plurinational State of": {
+    "bolivia, plurinational state of": {
         "bio": "Bolivia, Plurinational State of, is a landlocked country in South America known for its diverse landscapes, including the Andes Mountains, the Amazon Rainforest, and the Salt Flats of Uyuni. Travelers can explore the historic city of La Paz, visit the ancient ruins of Tiwanaku, and experience the vibrant culture of indigenous communities. Bolivia is also home to the world's highest capital city, La Paz, and the famous Lake Titicaca. With its rich history, stunning scenery, and unique traditions, Bolivia offers a one-of-a-kind travel experience for adventurers and nature enthusiasts alike.",
         "climate": [
             "cold",
@@ -228,7 +228,7 @@
         ],
         "cost": 2
     },
-    "Brazil": {
+    "brazil": {
         "bio": "Brazil is a vibrant country known for its diverse culture, stunning natural landscapes, and lively festivals. Visitors can explore the Amazon rainforest, relax on pristine beaches like Copacabana and Ipanema in Rio de Janeiro, or experience the energy of Carnival in Salvador. Brazil is also home to iconic landmarks such as the Christ the Redeemer statue and the Iguazu Falls. Sports enthusiasts can enjoy soccer matches in legendary stadiums like Maracanã. With a rich culinary scene featuring dishes like feijoada and caipirinha cocktails, Brazil offers a taste of its unique heritage.",
         "climate": [
             "hot",
@@ -236,7 +236,7 @@
         ],
         "cost": 2
     },
-    "Barbados": {
+    "barbados": {
         "bio": "Barbados, located in the Caribbean, is known for its beautiful white sandy beaches, warm turquoise waters, and vibrant culture. Visitors can explore historic sites like St. Nicholas Abbey and learn about the island's colonial past. The lively capital of Bridgetown offers shopping, dining, and nightlife options. Nature lovers will appreciate the wildlife reserves and botanical gardens. Barbados is famous for its Crop Over Festival, a lively celebration of music, dance, and culture. Don't miss trying some local delicacies like flying fish and cou cou. Overall, Barbados offers a perfect blend of relaxation, history, and adventure.",
         "climate": [
             "hot",
@@ -244,7 +244,7 @@
         ],
         "cost": 2
     },
-    "Brunei Darussalam": {
+    "brunei darussalam": {
         "bio": "Brunei Darussalam, a small sovereign state on the island of Borneo in Southeast Asia, is known for its rich cultural heritage and stunning architecture. The country is a unique blend of modernity and tradition, with attractions such as the majestic Omar Ali Saifuddien Mosque, the Royal Regalia Museum, and the lush Ulu Temburong National Park. Visitors can explore the water village of Kampong Ayer, one of the largest floating villages in the world. Brunei is also famous for its extravagant royal ceremonies and the Sultan's opulent palaces.",
         "climate": [
             "hot",
@@ -252,17 +252,17 @@
         ],
         "cost": 2
     },
-    "Bhutan": {
+    "bhutan": {
         "bio": "Bhutan, a small landlocked country in the Eastern Himalayas, is known for its unique culture and stunning landscapes. Travelers are drawn to its ancient monasteries, vibrant festivals, and picturesque valleys. Must-visit destinations include the iconic Tiger's Nest Monastery perched on a cliff, the capital city Thimphu with its colorful markets, and the serene Punakha Dzong. Bhutan is also renowned for its focus on Gross National Happiness and commitment to preserving its traditional way of life. Visitors can explore Bhutan's pristine nature through hiking, biking, and cultural tours.",
         "climate": [],
         "cost": 3
     },
-    "Bouvet Island": {
+    "bouvet island": {
         "bio": "Bouvet Island is an uninhabited, remote island in the South Atlantic Ocean, known for its stunning glaciers and rugged landscapes. It is a nature lover's paradise, with unique flora and fauna to discover. The island is a popular destination for scientists and researchers, drawn to its isolated and pristine environment. Tourists can enjoy activities such as bird watching, photography, and exploring the island's volcanic terrain. Bouvet Island is also home to a large population of seals and seabirds, adding to its wildlife diversity.",
         "climate": [],
         "cost": 1
     },
-    "Botswana": {
+    "botswana": {
         "bio": "Botswana, located in southern Africa, is known for its diverse wildlife and stunning natural landscapes. The country is home to the famous Okavango Delta, Chobe National Park, and the Kalahari Desert, offering unique safari experiences and incredible opportunities for wildlife viewing. Botswana is also rich in culture, with vibrant traditional music and dance performances. Visitors can learn about the indigenous San people and explore historic sites such as the Tsodilo Hills rock art. Botswana is a peaceful, stable country with friendly locals, making it a wonderful destination for nature lovers and adventure seekers.",
         "climate": [
             "hot",
@@ -270,21 +270,21 @@
         ],
         "cost": 2
     },
-    "Central African Republic": {
+    "central african republic": {
         "bio": "The Central African Republic, located in the heart of Africa, boasts rich biodiversity and stunning landscapes. Visitors can explore national parks teeming with wildlife, such as elephants, gorillas, and leopards. Boali Falls, a picturesque waterfall, is a must-see attraction. The country also offers cultural experiences like traditional dance performances and artisan markets. Despite its challenges, the Central African Republic welcomes visitors with warm hospitality and a chance to explore off-the-beaten-path destinations. It is a country with a deep history and vibrant culture waiting to be discovered.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Canada": {
+    "canada": {
         "bio": "Canada is a vast and diverse country known for its stunning natural landscapes, including rugged mountains, pristine lakes, and expansive forests. Popular tourist destinations include the vibrant city of Toronto, the historical sites of Quebec City, and the majestic Banff National Park. Canada is also home to unique wildlife such as bears, moose, and whales. Visitors can experience a variety of outdoor activities such as skiing, hiking, and fishing. Interesting facts about Canada include its multicultural population and the iconic maple leaf symbol. Don't miss the chance to try poutine, a Canadian specialty.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Cocos (Keeling) Islands": {
+    "cocos (keeling) islands": {
         "bio": "The Cocos (Keeling) Islands are a tropical paradise located in the Indian Ocean. Comprising 27 coral islands, this Australian territory is a haven for nature lovers and water sports enthusiasts. Visitors can explore pristine white sandy beaches, vibrant coral reefs, and lush greenery. Keeling Islands feature a unique blend of Malaysian and Australian cultures, reflected in the local cuisine and traditions. Must-visit attractions include Direction Island for snorkeling and Pulu Keeling National Park for bird watching. The islands also have a rich history, with remnants of World War II bunkers scattered throughout the archipelago.",
         "climate": [
             "hot",
@@ -292,17 +292,17 @@
         ],
         "cost": 2
     },
-    "Switzerland": {
+    "switzerland": {
         "bio": "Switzerland is a picturesque country known for its stunning alpine landscapes, charming villages, and high-quality luxury goods. Visitors flock to destinations like Zurich, Lucerne, Interlaken, and Zermatt for outdoor activities such as skiing, hiking, and exploring the iconic Matterhorn. Switzerland is famous for its precision watchmaking, delicious chocolates, and efficient public transportation system. The country is also home to numerous beautiful lakes and valleys, offering endless opportunities for relaxation and adventure. Don't miss the chance to ride the scenic Glacier Express train through the heart of the Swiss Alps.",
         "climate": [],
         "cost": 3
     },
-    "Chile": {
+    "chile": {
         "bio": "Chile, located in South America, is a diverse country known for its stunning natural landscapes. From the Atacama Desert in the north to the glaciers of Patagonia in the south, Chile offers a wide range of attractions for nature lovers. The country is also famous for its wine regions, such as the Colchagua Valley, and vibrant cities like Santiago and Valparaíso. Tourists can explore Easter Island with its mysterious Moai statues or visit the beautiful Torres del Paine National Park for hiking and wildlife spotting.",
         "climate": [],
         "cost": 2
     },
-    "China": {
+    "china": {
         "bio": "China is a vast and diverse country known for its ancient history, rich culture, and stunning landscapes. Visitors can explore iconic landmarks such as the Great Wall, Forbidden City, and Terracotta Army. The country is also famous for its beautiful natural attractions like the Yangtze River, Guilin's karst mountains, and the Zhangjiajie National Forest Park. China boasts a vibrant food scene with a wide variety of regional cuisines to try. Don't miss experiencing traditional Chinese festivals and performances. Shopping enthusiasts will enjoy browsing through bustling markets and modern shopping malls.",
         "climate": [
             "hot",
@@ -310,7 +310,7 @@
         ],
         "cost": 2
     },
-    "Côte d'Ivoire": {
+    "côte d'ivoire": {
         "bio": "Côte d'Ivoire, also known as Ivory Coast, is a vibrant West African country known for its rich culture and diverse landscapes. Visitors can explore stunning beaches along the Gulf of Guinea, lush rainforests teeming with wildlife, and bustling cities like Abidjan. Must-see attractions include the stunning Basilica of Our Lady of Peace in Yamoussoukro, the vibrant markets of Grand-Bassam, and the enchanting Tai National Park. Côte d'Ivoire is known for its delicious cuisine, vibrant music scene, and colorful festivals celebrating traditional art and dance.",
         "climate": [
             "hot",
@@ -318,14 +318,14 @@
         ],
         "cost": 2
     },
-    "Cameroon": {
+    "cameroon": {
         "bio": "Cameroon is a diverse country in Central Africa known for its rich culture and stunning natural beauty. Visitors can explore the vibrant markets of Yaoundé, the capital city, and witness traditional dance performances. Nature enthusiasts can embark on safaris in national parks such as Waza and Korup, home to a variety of wildlife including elephants and primates. Mount Cameroon offers opportunities for hiking and climbing, while coastal cities like Douala provide a glimpse into the country's colonial history. Don't miss the opportunity to try delicious Cameroonian cuisine, blending local ingredients with French influences.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Congo, The Democratic Republic of the": {
+    "congo, the democratic republic of the": {
         "bio": "The Democratic Republic of the Congo, often referred to as DR Congo, is a vast country in Central Africa with a rich cultural heritage and stunning natural landscapes. One of the main attractions is Virunga National Park, home to endangered mountain gorillas. The country is also known for the Congo River, the second-longest river in Africa, and the breathtaking waterfalls of Zongo. With diverse wildlife, lush rainforests, and vibrant cities like Kinshasa, there is plenty to explore. DR Congo has a tumultuous history but offers adventurous travelers a unique and rewarding experience.",
         "climate": [
             "hot",
@@ -333,12 +333,12 @@
         ],
         "cost": 2
     },
-    "Congo": {
+    "congo": {
         "bio": "Congo, officially known as the Republic of the Congo, is a country in Central Africa with lush rainforests and diverse wildlife. The capital city, Brazzaville, sits on the Congo River. Popular tourist destinations include Odzala National Park, known for its lowland gorillas, and Nouabalé-Ndoki National Park, home to forest elephants. Congo is rich in cultural heritage with traditional music and dance performances. Interesting facts include being one of the world's largest producers of oil and having a high linguistic diversity with over 60 local languages spoken.",
         "climate": [],
         "cost": 2
     },
-    "Cook Islands": {
+    "cook islands": {
         "bio": "The Cook Islands is a South Pacific nation comprising 15 islands known for their beautiful tropical scenery and friendly local culture. Popular tourist destinations include Rarotonga, the largest island with stunning beaches and lush mountains, and Aitutaki, famous for its crystal-clear lagoon. Visitors can enjoy water activities like snorkeling, diving, and fishing, or simply relax on the pristine sandy beaches. The islands also offer a unique Polynesian cultural experience with traditional dance performances and local crafts. Don't miss the chance to taste the delicious fusion of Polynesian and international cuisine on the islands.",
         "climate": [
             "hot",
@@ -346,7 +346,7 @@
         ],
         "cost": 2
     },
-    "Colombia": {
+    "colombia": {
         "bio": "Colombia is a vibrant country in South America known for its rich culture, welcoming locals, and stunning landscapes. Tourists flock to cities like Bogota, Medellin, and Cartagena to explore the historical sites, colorful streets, and delicious cuisine. Colombia is also famous for its coffee regions, offering visitors the chance to tour coffee farms and sample some of the world's best coffee. Nature lovers can visit the lush Amazon rainforest, hike through the Andes mountains, or relax on the beautiful Caribbean coast. Don't miss the chance to experience the lively music and dance scene, including salsa and reggaeton.",
         "climate": [
             "hot",
@@ -354,7 +354,7 @@
         ],
         "cost": 2
     },
-    "Comoros": {
+    "comoros": {
         "bio": "The Comoros is a volcanic archipelago located in the Indian Ocean, known for its beautiful beaches, coral reefs, and diverse marine life. Comprising of three main islands - Grande Comore, Mohéli, and Anjouan - the country offers visitors a mix of cultures, including Arab, African, and French influences. One of the main attractions is the active volcano Mount Karthala on Grande Comore. Visitors can also explore the charming old town of Moroni, go hiking in the lush interior, or relax on the secluded beaches. The Comoros is a hidden gem for those seeking a unique and off-the-beaten-path travel experience.",
         "climate": [
             "hot",
@@ -362,7 +362,7 @@
         ],
         "cost": 2
     },
-    "Cabo Verde": {
+    "cabo verde": {
         "bio": "Cabo Verde, also known as Cape Verde, is an archipelago located off the coast of West Africa. This diverse country is known for its stunning beaches, vibrant culture, and lively music scene. Visitors can explore the charming towns, hike through picturesque landscapes, and enjoy water activities such as windsurfing and snorkeling. Must-visit destinations include the volcanic island of Fogo, the historic town of Cidade Velha, and the beautiful beaches of Sal. Cabo Verde offers a unique blend of African and European influences, making it a fascinating destination for travelers seeking a distinctive experience.",
         "climate": [
             "hot",
@@ -370,7 +370,7 @@
         ],
         "cost": 2
     },
-    "Costa Rica": {
+    "costa rica": {
         "bio": "Costa Rica is a vibrant and biodiverse country known for its lush rainforests, exotic wildlife, and stunning beaches. Popular tourist destinations include Manuel Antonio National Park with its beautiful beaches and diverse wildlife, Arenal Volcano for hot springs and adventure activities, and Monteverde Cloud Forest Reserve for its unique ecosystem. Costa Rica is also famous for its eco-friendly initiatives and sustainable tourism practices. Visitors can enjoy activities such as zip-lining, surfing, and wildlife watching. Don't miss the chance to taste delicious local cuisine such as gallo pinto and casados.",
         "climate": [
             "hot",
@@ -378,21 +378,21 @@
         ],
         "cost": 2
     },
-    "Cuba": {
+    "cuba": {
         "bio": "Cuba is a vibrant Caribbean island known for its rich history, classic cars, and colorful architecture. Explore the charming streets of Havana, with its lively music scene and vintage buildings. Visit the historic city of Trinidad, a UNESCO World Heritage site with cobblestone streets and colonial architecture. Relax on the beautiful beaches of Varadero or explore the lush tobacco fields of Viñales. Don't miss the iconic Cuban cigars and rum, and immerse yourself in the local culture through salsa dancing and street art.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Curaçao": {
+    "curaçao": {
         "bio": "Curaçao, a Dutch Caribbean island, is known for its stunning beaches, vibrant coral reefs, and colorful Dutch colonial architecture. The capital city, Willemstad, is a UNESCO World Heritage Site with pastel-colored buildings lining the waterfront. Tourists can explore the island's natural beauty at Christoffel National Park, dive into the crystal-clear waters at Playa Kalki, or visit the Hato Caves with ancient Amerindian petroglyphs. Curaçao is also famous for its liquor distillery producing the island's namesake blue liqueur. Visitors can enjoy a unique blend of cultures, languages, and cuisines on this tropical paradise.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Christmas Island": {
+    "christmas island": {
         "bio": "Christmas Island is a remote Australian territory in the Indian Ocean known for its stunning natural beauty and unique wildlife. One of the island's top tourist destinations is the Christmas Island National Park, home to a diverse range of flora and fauna, including the famous red crab migration. Visitors can also enjoy world-class diving and snorkeling in the crystal-clear waters surrounding the island. With its rich biodiversity and picturesque landscapes, Christmas Island offers a peaceful and immersive experience for nature lovers and adventure seekers alike.",
         "climate": [
             "hot",
@@ -400,14 +400,14 @@
         ],
         "cost": 2
     },
-    "Cayman Islands": {
+    "cayman islands": {
         "bio": "The Cayman Islands is a British Overseas Territory known for its crystal-clear waters, white sandy beaches, and vibrant coral reefs. Grand Cayman is the largest island and a popular cruise ship destination, featuring the famous Seven Mile Beach. The Cayman Turtle Centre offers a chance to interact with sea turtles, while Stingray City allows visitors to swim with friendly stingrays. The islands are also a haven for divers, with numerous world-class dive sites. Don't miss the chance to try the local cuisine, which includes delicious seafood dishes. The Cayman Islands combine luxury with natural beauty, making it a top choice for a tropical getaway.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Cyprus": {
+    "cyprus": {
         "bio": "Cyprus is a stunning island country in the Eastern Mediterranean known for its rich history, beautiful beaches, and vibrant cities. Tourists can explore ancient ruins such as the Tombs of the Kings, relax on the pristine beaches of Fig Tree Bay, or visit the picturesque village of Omodos. Don't miss out on trying traditional Cypriot cuisine with dishes like souvlaki and halloumi. One interesting fact is that Cyprus is the mythical birthplace of Aphrodite, the Greek goddess of love. The country offers a perfect blend of history, culture, and natural beauty for travelers to enjoy.",
         "climate": [
             "hot",
@@ -415,26 +415,26 @@
         ],
         "cost": 2
     },
-    "Czechia": {
+    "czechia": {
         "bio": "Czechia, also known as the Czech Republic, is a country located in Central Europe with a rich history and stunning architecture. Visitors flock to Prague, the capital city, to explore iconic landmarks like Prague Castle and Charles Bridge. The country is also famous for its well-preserved medieval towns, such as Cesky Krumlov and Kutna Hora. Beer lovers will enjoy the variety of beers brewed in the country, and traditional Czech cuisine like goulash and dumplings is a must-try. Don't miss the beautiful Czech countryside with its rolling hills and historic castles.",
         "climate": [],
         "cost": 2
     },
-    "Germany": {
+    "germany": {
         "bio": "Germany is a country in central Europe known for its rich history, vibrant cities, and stunning landscapes. Visitors can explore iconic landmarks such as the Brandenburg Gate in Berlin, the Neuschwanstein Castle in Bavaria, and the Cologne Cathedral. Germany is also famous for its beer culture, with numerous beer gardens and festivals throughout the year. Nature lovers can enjoy the Black Forest, the Rhine Valley, and the picturesque Bavarian Alps. Additionally, Germany is home to a diverse culinary scene, ranging from hearty sausages to delicious pastries.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Djibouti": {
+    "djibouti": {
         "bio": "Djibouti, known as the \"Land of Incense\", is a small country located in the Horn of Africa. It offers unique experiences such as swimming in the saltiest body of water, Lake Assal, and exploring the otherworldly landscapes of Lac Abbe. Djibouti City, the capital, is a vibrant cultural hub with markets, mosques, and the historic Place Menelik. Don't miss the chance to see the impressive Lake Abbe flamingos or the stunning Goda Mountains. Djibouti is a melting pot of cultures, with influences from Arabia, East Africa, and France.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Dominica": {
+    "dominica": {
         "bio": "Dominica, not to be confused with the Dominican Republic, is a small Caribbean island nation known as the 'Nature Island' for its lush rainforests, freshwater lakes, hot springs, and towering waterfalls. It offers excellent opportunities for hiking, diving, and exploring pristine natural beauty. Must-visit tourist destinations include the Boiling Lake, Trafalgar Falls, and Champagne Reef for snorkeling. Dominica is also home to the last remaining population of indigenous Kalinago people. The island's volcanic origins make for unique black sand beaches. It is a paradise for nature enthusiasts and eco-adventurers.",
         "climate": [
             "hot",
@@ -442,14 +442,14 @@
         ],
         "cost": 2
     },
-    "Denmark": {
+    "denmark": {
         "bio": "Denmark is a Scandinavian country known for its charming cities, picturesque countryside, and vibrant culture. Visitors can explore the historic streets of Copenhagen, visit royal palaces, and enjoy delicious Danish cuisine. Don't miss iconic attractions such as Tivoli Gardens, the Little Mermaid statue, and the colorful Nyhavn waterfront. Denmark is also famous for its design heritage, with many renowned furniture and interior design brands originating from the country. Outdoor enthusiasts can explore sandy beaches, charming islands, and lush forests. Denmark's high quality of life, friendly locals, and strong emphasis on sustainability make it a popular destination for travelers.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Dominican Republic": {
+    "dominican republic": {
         "bio": "The Dominican Republic is a vibrant Caribbean nation known for its stunning beaches, lush tropical landscapes, and vibrant culture. Visitors can explore historic Santo Domingo, the oldest city in the Americas, or relax in luxury resorts in Punta Cana. Nature lovers will enjoy hiking in the lush rainforests of the interior, while adventure seekers can try their hand at windsurfing or zip-lining. Don't miss the beautiful turquoise waters of Bahia de las Aguilas or the majestic Pico Duarte, the highest peak in the Caribbean.",
         "climate": [
             "hot",
@@ -457,7 +457,7 @@
         ],
         "cost": 2
     },
-    "Algeria": {
+    "algeria": {
         "bio": "Algeria is known for its rich history, diverse culture, and stunning landscapes. Situated in North Africa, the country offers a mix of bustling cities, ancient ruins, and vast desert areas. Visitors can explore the historic casbah in Algiers, Roman ruins at Timgad, and the beautiful coastal town of Oran. The Sahara Desert in the south is a popular destination for desert tours and camel treks. Algeria is also home to the Hoggar Mountains and the picturesque Mediterranean coastline, providing a range of outdoor activities for nature lovers and adventure seekers.",
         "climate": [
             "hot",
@@ -465,21 +465,21 @@
         ],
         "cost": 2
     },
-    "Ecuador": {
+    "ecuador": {
         "bio": "Ecuador is a country located in South America known for its incredible biodiversity and stunning landscapes. It is home to the Amazon rainforest, the Andes mountains, and the Galapagos Islands, which inspired Charles Darwin's theory of evolution. Tourists can explore the historic city of Quito, visit indigenous markets, and marvel at the diverse wildlife. Must-see destinations include the Galapagos Islands, Cotopaxi National Park, and the Mindo Cloud Forest. Ecuador is also famous for its delicious cuisine, including ceviche and roasted guinea pig.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Egypt": {
+    "egypt": {
         "bio": "Egypt is a country located in North Africa known for its ancient civilization, iconic landmarks such as the Pyramids of Giza and the Sphinx. Tourists can explore the vibrant bazaars, sail along the Nile River, and visit the temples and tombs of Luxor. Egypt is also home to world-class diving spots in the Red Sea, offering stunning coral reefs and marine life. With a rich history dating back thousands of years, Egypt is a captivating destination for history enthusiasts. The local cuisine, traditional music, and hospitable people add to the unique charm of this country.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Eritrea": {
+    "eritrea": {
         "bio": "Eritrea, located in the Horn of Africa, offers visitors a unique blend of rich history, diverse culture, and stunning landscapes. As one of the oldest nations in Africa, Eritrea boasts ancient ruins, traditional markets, and vibrant festivals that showcase its heritage. Visitors can explore the colorful capital city of Asmara, known for its Italian colonial architecture, or relax on the pristine beaches along the Red Sea coast. Must-see tourist destinations include the Dahlak Archipelago for diving enthusiasts and the ancient port city of Massawa. Eritrea's friendly locals and delicious cuisine add to the charm of this off-the-beaten-path destination.",
         "climate": [
             "hot",
@@ -487,42 +487,42 @@
         ],
         "cost": 2
     },
-    "Western Sahara": {
+    "western sahara": {
         "bio": "Western Sahara is a disputed territory in North Africa, known for its vast desert landscapes and stunning coastal areas. Tourists can explore the ancient city of Laayoune, visit the Dakhla Peninsula for water sports like windsurfing and kiteboarding, and marvel at the incredible sunsets over the sand dunes. The region is rich in culture with influences from Berber, Arab, and Sahrawi traditions. One interesting fact is that Western Sahara has one of the largest phosphate reserves in the world, contributing to its economy.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Spain": {
+    "spain": {
         "bio": "Spain is a vibrant country known for its rich history, stunning architecture, and diverse culture. Visitors flock to cities like Barcelona, Madrid, and Seville to explore iconic landmarks such as Sagrada Familia, Prado Museum, and Alhambra Palace. Spain is also famous for its beautiful beaches along the Costa del Sol and Costa Brava. Foodies will love indulging in delicious tapas, paella, and sangria while enjoying the lively atmosphere of local markets and festivals. Don't miss the chance to witness traditional flamenco dancing or take a scenic hike in the picturesque countryside.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Estonia": {
+    "estonia": {
         "bio": "Estonia, located in Northern Europe, is known for its beautiful landscapes, medieval architecture, and vibrant culture. Visitors can explore the charming streets of Tallinn's Old Town, a UNESCO World Heritage Site, or relax on the picturesque beaches of the Baltic Sea. Estonia is also a tech-savvy country, with advanced e-governance and a thriving startup scene. Nature lovers can enjoy the stunning Lahemaa National Park or visit the historic island of Saaremaa. Don't miss trying traditional Estonian cuisine and experiencing the unique traditions of this Baltic gem.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Ethiopia": {
+    "ethiopia": {
         "bio": "Ethiopia is a country located in the horn of Africa, known for its rich history and diverse landscapes. Visitors can explore ancient rock-hewn churches in Lalibela, hike through the stunning Simien Mountains, or see the incredible Blue Nile Falls. Ethiopia is also famous for its unique cuisine, featuring injera bread and spicy stews. One interesting fact is that Ethiopia follows its own unique calendar system with 13 months. Tourists can also witness the traditional coffee ceremony, a symbol of hospitality in Ethiopian culture.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Finland": {
+    "finland": {
         "bio": "Finland, the land of a thousand lakes and the Northern Lights, is known for its stunning natural beauty and outdoor adventures. Visit the vibrant capital city of Helsinki for its cultural attractions, then head to Lapland to experience the unique Sami culture and go on a reindeer safari. Don't miss the iconic Santa Claus Village in Rovaniemi or the UNESCO-listed fortress of Suomenlinna in Helsinki. Finland is also a paradise for outdoor enthusiasts, with activities like hiking, skiing, and ice fishing available year-round.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Fiji": {
+    "fiji": {
         "bio": "Fiji is an archipelago in the South Pacific known for its stunning natural beauty, with crystal-clear waters, white sandy beaches, and vibrant coral reefs. Popular tourist destinations in Fiji include the Mamanuca and Yasawa Islands for relaxation, diving, and snorkeling, as well as the capital city of Suva for shopping and cultural experiences. With a rich Polynesian heritage, visitors can also explore traditional Fijian villages and enjoy cultural performances. Don't miss the opportunity to try kava, a traditional Fijian drink, and indulge in fresh seafood cuisine. Fiji is a tropical paradise offering a perfect blend of relaxation and adventure.",
         "climate": [
             "hot",
@@ -530,14 +530,14 @@
         ],
         "cost": 2
     },
-    "Falkland Islands (Malvinas)": {
+    "falkland islands (malvinas)": {
         "bio": "The Falkland Islands, also known as the Malvinas, are an archipelago in the South Atlantic Ocean. Known for their rugged beauty and diverse wildlife, including penguins, seals, and albatrosses, the islands offer a unique opportunity for nature lovers to explore remote and unspoiled landscapes. Visitors can enjoy activities such as birdwatching, hiking, and whale watching. The capital, Stanley, features colorful buildings and charming streets to explore. The islands have a fascinating history, including the 1982 conflict between the UK and Argentina over sovereignty. Overall, the Falkland Islands offer a peaceful and enchanting escape for adventurous travelers.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "France": {
+    "france": {
         "bio": "France is renowned for its art, culture, and gastronomy. Home to iconic landmarks such as the Eiffel Tower, Louvre Museum, and Palace of Versailles, visitors can immerse themselves in history and architectural wonders. Explore charming villages in Provence, sip on fine wines in Bordeaux, or relax on the French Riviera's glamorous beaches. Indulge in delectable pastries and cheeses, and enjoy the bustling markets and vibrant nightlife. France also offers outdoor adventures in the Alps and Pyrenees mountains. With its rich heritage and diverse landscapes, France is a popular destination for travelers worldwide.",
         "climate": [
             "mild",
@@ -545,14 +545,14 @@
         ],
         "cost": 2
     },
-    "Faroe Islands": {
+    "faroe islands": {
         "bio": "The Faroe Islands are a remote archipelago in the North Atlantic, known for their stunning natural beauty with rugged cliffs, green valleys, and picturesque villages. Visitors can explore charming towns like Tórshavn, the capital, and experience the unique Faroese culture. Outdoor enthusiasts will enjoy hiking along breathtaking trails, birdwatching at bird cliffs, and fishing in pristine waters. The islands are also a paradise for bird lovers, with many species of seabirds nesting here. Don't miss the chance to try traditional Faroese cuisine, such as fermented lamb and fish. The Faroe Islands offer a unique and unforgettable travel experience.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Micronesia, Federated States of": {
+    "micronesia, federated states of": {
         "bio": "Micronesia, Federated States of is a country located in the western Pacific Ocean. Comprised of over 600 islands, it offers stunning coral reefs, World War II historical sites, and traditional Micronesian culture. Popular tourist destinations include Chuuk Lagoon with its famous wreck diving sites, scenic Pohnpei with its ancient ruins and waterfalls, and Yap known for its stone money and cultural dances. The country's unique geography and rich history make it a fascinating destination for travelers seeking an off-the-beaten-path experience.",
         "climate": [
             "hot",
@@ -560,7 +560,7 @@
         ],
         "cost": 2
     },
-    "Gabon": {
+    "gabon": {
         "bio": "Gabon, located on the west coast of Central Africa, is known for its vast expanses of pristine rainforest and diverse wildlife. The country offers a unique opportunity to experience nature in its purest form, with national parks such as Loango and Ivindo showcasing a variety of animals including forest elephants, gorillas, and leopards. Travelers can also explore the beautiful beaches along the Atlantic coast and visit the bustling capital city of Libreville. Gabon is rich in cultural heritage, with traditional ceremonies and rituals still practiced by many indigenous groups. Don't miss the opportunity to sample delicious local cuisine featuring fresh seafood and tropical fruits.",
         "climate": [
             "hot",
@@ -568,45 +568,45 @@
         ],
         "cost": 2
     },
-    "United Kingdom": {
+    "united kingdom": {
         "bio": "The United Kingdom is a diverse country with rich history and culture. Visitors can explore famous landmarks such as Big Ben, Buckingham Palace, and Stonehenge. The country offers a variety of tourist destinations, from bustling cities like London to picturesque countryside in Scotland and Wales. Visitors can experience traditional English tea, pub culture, and iconic red double-decker buses. Interesting facts include the UK being home to the world's oldest underground railway system and the birthplace of Shakespeare. Don't miss the changing of the guards at Buckingham Palace or visiting the historic Edinburgh Castle.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Georgia": {
+    "georgia": {
         "bio": "Georgia, located at the crossroads of Western Asia and Eastern Europe, offers a unique blend of history, nature, and culture. Visitors can explore ancient cities like Tbilisi, wander through charming vineyards, and hike in the stunning Caucasus Mountains. Georgia is famous for its hospitality, delicious cuisine including Khachapuri and Khinkali, and traditional winemaking dating back thousands of years. Must-visit destinations include the historic town of Signagi, the cave monasteries of Vardzia, and the Black Sea coast in Batumi.",
         "climate": [],
         "cost": 1
     },
-    "Guernsey": {
+    "guernsey": {
         "bio": "Guernsey, a charming island in the English Channel, offers a unique blend of British and French influences with stunning coastal views and picturesque countryside. Known for its beautiful sandy beaches, historic sites like Castle Cornet, and fascinating museums, Guernsey is a delightful destination for history buffs and nature lovers alike. Don't miss the scenic cliff walks, delicious local cuisine, and the famous Guernsey cows. With a rich maritime history and quaint seaside towns, Guernsey has something to offer for every traveler.",
         "climate": [],
         "cost": 2
     },
-    "Ghana": {
+    "ghana": {
         "bio": "Ghana, located in West Africa, is known for its diverse culture and history. Visitors can explore the bustling markets of Accra, relax on the beautiful beaches of Cape Coast, and experience traditional Ashanti culture in Kumasi. Don't miss a visit to the historic Cape Coast Castle and the vibrant arts scene in the capital city. Ghana is also home to stunning national parks such as Mole National Park, offering opportunities for wildlife viewing. With its friendly locals and rich heritage, Ghana is a vibrant destination that will leave a lasting impression on travelers.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Gibraltar": {
+    "gibraltar": {
         "bio": "Gibraltar is a British Overseas Territory known for its iconic Rock of Gibraltar, offering stunning views of the Strait of Gibraltar. It has a unique blend of British and Spanish cultures, evident in its food, architecture, and traditions. Popular tourist destinations include the historic Great Siege Tunnels, St. Michael's Cave, and the Barbary macaques roaming freely on the rock. Gibraltar is also a great place for shopping, with numerous duty-free shops. Visitors can enjoy the Mediterranean climate and relax at its sandy beaches. Don't miss the impressive Europa Point Lighthouse and the vibrant Main Street for a true taste of Gibraltar.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Guinea": {
+    "guinea": {
         "bio": "Guinea is a country in West Africa known for its vibrant culture, music, and unique landscapes. Visitors can explore the beautiful Fouta Djallon highlands, witness traditional ceremonies and festivals, and visit the bustling markets in Conakry. For nature lovers, the country offers opportunities to see endangered species in the Ziama Forest and the Nimba Mountains. Guinea is also rich in history, with ancient ruins like the Mosque of Kankan. Don't miss the opportunity to taste the delicious local cuisine, such as jollof rice and grilled meat skewers.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Guadeloupe": {
+    "guadeloupe": {
         "bio": "Guadeloupe is an overseas region of France located in the Caribbean. It is known for its beautiful beaches, lush rainforests, and vibrant culture that blends French, African, and Caribbean influences. Visitors can explore the stunning volcanic landscape of La Soufriere, relax on the white sandy beaches of Grande-Terre, and enjoy the delicious local cuisine. Guadeloupe also offers opportunities for snorkeling, diving, and hiking in its pristine natural surroundings. Don't miss the stunning underwater sculpture park off the coast of Molinere Point.",
         "climate": [
             "hot",
@@ -614,14 +614,14 @@
         ],
         "cost": 2
     },
-    "Gambia": {
+    "gambia": {
         "bio": "Gambia, located in West Africa, is known for its vibrant culture, warm hospitality, and beautiful scenery. One of the smallest countries on the continent, it offers a unique blend of bustling markets, lush forests, and stunning beaches along the Atlantic coast. Tourists can visit the historic capital city of Banjul, explore the wildlife-rich River Gambia National Park, or unwind at the popular resort area of Kololi. Gambia is also a birdwatcher's paradise, with over 500 bird species to spot. Don't miss experiencing the local music and dance traditions, such as the energetic Sabar dance.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Guinea-Bissau": {
+    "guinea-bissau": {
         "bio": "Guinea-Bissau, a small country in West Africa, is known for its rich cultural heritage and diverse landscapes. Visitors can explore the capital city of Bissau, with its vibrant markets and colonial architecture. The Bijagos Archipelago offers stunning beaches and unique wildlife, perfect for nature lovers. Traditional music and dance are an integral part of the culture, adding to the authentic experience. Guinea-Bissau is also a great destination for birdwatching, with over 300 species of birds to spot. Visitors can immerse themselves in the local way of life and enjoy the laid-back atmosphere of this hidden gem in Africa.",
         "climate": [
             "hot",
@@ -629,7 +629,7 @@
         ],
         "cost": 2
     },
-    "Equatorial Guinea": {
+    "equatorial guinea": {
         "bio": "Equatorial Guinea is a small country located on the west coast of Central Africa. It is known for its beautiful beaches, lush rainforests, and diverse wildlife. Visitors can explore the vibrant capital city of Malabo, visit the volcanic islands of Bioko and Annobón, and experience the unique culture of the Fang people. Interesting tourist destinations include Pico Basile, the highest peak in Equatorial Guinea, and the Moka Wildlife Center, home to a variety of exotic animals. Fun fact: Equatorial Guinea is one of Africa's largest oil producers.",
         "climate": [
             "hot",
@@ -637,7 +637,7 @@
         ],
         "cost": 2
     },
-    "Greece": {
+    "greece": {
         "bio": "Greece is a country in southern Europe known for its fascinating history, stunning architecture, and beautiful landscapes. It is famous for its ancient ruins, including the Acropolis in Athens and the ruins of Delphi. The Greek islands, such as Santorini and Mykonos, offer breathtaking views and charming villages. Visitors can also explore the picturesque villages of Pelion, hike through the rugged landscapes of Crete, or relax on the beautiful beaches of Zakynthos. Greece is a paradise for lovers of Mediterranean cuisine, with delicious dishes like moussaka, souvlaki, and baklava.",
         "climate": [
             "hot",
@@ -645,7 +645,7 @@
         ],
         "cost": 2
     },
-    "Grenada": {
+    "grenada": {
         "bio": "Grenada, known as the 'Spice Isle', is a beautiful Caribbean destination with lush landscapes, stunning beaches, and rich cultural heritage. Visitors can explore historic forts, spice plantations, and colorful markets. Grand Anse Beach is a popular spot for sunbathing and water sports, while the underwater sculpture park at Molinere Bay offers unique diving opportunities. The island also hosts the annual Grenada Carnival, a vibrant celebration of music, dance, and culture. With its warm and welcoming locals, Grenada is a perfect blend of relaxation and adventure.",
         "climate": [
             "hot",
@@ -653,21 +653,21 @@
         ],
         "cost": 2
     },
-    "Greenland": {
+    "greenland": {
         "bio": "Greenland, an autonomous territory of Denmark, is known for its stunning landscapes of glaciers, fjords, and icebergs. It is a paradise for nature lovers and adventure seekers, offering unique experiences such as dog sledding, whale watching, and hiking across the Arctic tundra. Visit the colorful capital city of Nuuk, explore historic settlements like Hvalsey Church Ruins, or witness the majestic Northern Lights. Greenland is also home to the Ilulissat Icefjord, a UNESCO World Heritage Site. With a rich Inuit culture and fascinating wildlife, including polar bears and musk oxen, Greenland is a captivating destination for intrepid travelers.",
         "climate": [
             "cold"
         ],
         "cost": 3
     },
-    "Guatemala": {
+    "guatemala": {
         "bio": "Guatemala, located in Central America, is known for its rich history and stunning landscapes. Visitors can explore ancient Mayan ruins at Tikal, relax by the picturesque Lake Atitlán, and experience the vibrant culture in the colonial city of Antigua. Guatemala is also home to diverse wildlife and lush rainforests, making it a great destination for nature lovers. Don't miss the colorful markets selling traditional handicrafts and the delicious local cuisine featuring dishes like tamales and pepian. With its fascinating history and natural beauty, Guatemala offers a unique and memorable travel experience.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "French Guiana": {
+    "french guiana": {
         "bio": "French Guiana is an overseas department of France located on the northeastern coast of South America. With a unique blend of cultures, including indigenous, European, and Creole influences, the country offers a diverse array of experiences for travelers. Visitors can explore the lush Amazon rainforest, spot diverse wildlife species in the Roura Zoo, or visit the Guiana Space Centre, Europe's primary spaceport. Discover the historic capital of Cayenne, stroll along the picturesque beaches, or hike to the majestic waterfalls in the interior of the country.",
         "climate": [
             "hot",
@@ -675,7 +675,7 @@
         ],
         "cost": 2
     },
-    "Guam": {
+    "guam": {
         "bio": "Guam is a tropical paradise located in the western Pacific Ocean, known for its stunning beaches, crystal clear waters, and excellent diving spots. The island is rich in history, with significant World War II sites and Chamorro culture. Visit the Two Lovers Point scenic overlook for breathtaking views, explore the vibrant capital, Hagåtña, and enjoy watersports like snorkeling and kayaking. Guam also offers duty-free shopping and delicious local cuisine with a blend of Asian, American, and Spanish influences.",
         "climate": [
             "hot",
@@ -683,28 +683,28 @@
         ],
         "cost": 2
     },
-    "Guyana": {
+    "guyana": {
         "bio": "Located on the northeastern coast of South America, Guyana is known for its lush rainforests and diverse wildlife. Popular tourist destinations include Kaieteur Falls, one of the world's highest single-drop waterfalls, and the historic capital city of Georgetown with its colonial architecture. Visitors can explore the Guyana Amazon rainforest, spot unique bird species, and take river tours to see caimans and giant otters. Guyana is a melting pot of cultures with a rich history influenced by Amerindian, African, Indian, and European heritage. Adventure seekers can enjoy trekking, birdwatching, and fishing in this beautiful country.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Hong Kong": {
+    "hong kong": {
         "bio": "Hong Kong is a vibrant city known for its stunning skyline, bustling markets, and rich cultural heritage. As a former British colony, it offers a unique blend of East-meets-West influences. Travelers can explore iconic landmarks like Victoria Peak, enjoy authentic dim sum in local eateries, and shop in luxury boutiques or vibrant night markets. Hong Kong is also famous for its impressive fireworks displays, annual dragon boat races, and traditional festivals like Chinese New Year. Nature lovers can visit nearby islands like Lantau Island to see the Big Buddha statue and Po Lin Monastery.",
         "climate": [
             "humid"
         ],
         "cost": 3
     },
-    "Heard Island and McDonald Islands": {
+    "heard island and mcdonald islands": {
         "bio": "Heard Island and McDonald Islands are uninhabited territories in the southern Indian Ocean, known for their remote and untouched landscapes. The islands are home to a wealth of wildlife, including seals, penguins, and albatrosses. Tourists can explore the rugged terrain, towering cliffs, and active volcanoes of Heard Island, as well as the volcanic McDonald Islands. Due to their isolation and harsh conditions, visiting these islands is a rare and challenging experience for adventurous travelers.",
         "climate": [
             "cold"
         ],
         "cost": 1
     },
-    "Honduras": {
+    "honduras": {
         "bio": "Honduras is a vibrant country located in Central America known for its stunning beaches, ancient Mayan ruins, and lush rainforests. One of the top tourist destinations is Roatan, a beautiful island with crystal-clear waters perfect for snorkeling and diving. The Copan Ruins offers a fascinating glimpse into the ancient Mayan civilization. Visitors can also explore the vibrant capital city of Tegucigalpa with its historic churches and colorful markets. Honduras is a country rich in culture and natural beauty, making it a great destination for adventure-seekers and history enthusiasts alike.",
         "climate": [
             "hot",
@@ -712,7 +712,7 @@
         ],
         "cost": 1
     },
-    "Croatia": {
+    "croatia": {
         "bio": "Croatia is a stunning country located in Southeast Europe, known for its crystal-clear Adriatic Sea, historic cities, and picturesque coastline. Explore the ancient walls of Dubrovnik, stroll through the charming streets of Split, or visit the breathtaking Plitvice Lakes National Park. With a rich history that dates back to Roman times, Croatia offers a perfect blend of culture, nature, and relaxation for travelers. Don't miss the chance to sample delicious Mediterranean cuisine and experience the vibrant local culture.",
         "climate": [
             "hot",
@@ -720,7 +720,7 @@
         ],
         "cost": 2
     },
-    "Haiti": {
+    "haiti": {
         "bio": "Haiti, located on the island of Hispaniola in the Caribbean, offers a rich cultural experience with a blend of African and French influences. Visitors can explore the historic Citadelle Laferrière, stunning beaches like Labadee, and vibrant markets in Port-au-Prince. Haiti is known for its unique art and music scene, as well as its colorful Carnival celebrations. Despite its challenges, the country's resilient spirit and natural beauty continue to attract adventurous travelers looking for an off-the-beaten-path destination.",
         "climate": [
             "hot",
@@ -728,7 +728,7 @@
         ],
         "cost": 2
     },
-    "Hungary": {
+    "hungary": {
         "bio": "Hungary is a beautiful Eastern European country known for its rich history, stunning architecture, and delicious cuisine. Budapest, the capital city, is famous for its thermal baths, historic castles, and vibrant nightlife. Visitors can explore the charming towns of Eger and Szentendre, or relax in the picturesque countryside dotted with vineyards and hot springs. Hungary is also home to the largest lake in Central Europe, Lake Balaton, offering opportunities for swimming, sailing, and sunbathing. Don't miss trying traditional dishes like goulash and chimney cake while visiting this enchanting destination.",
         "climate": [
             "hot",
@@ -736,7 +736,7 @@
         ],
         "cost": 2
     },
-    "Indonesia": {
+    "indonesia": {
         "bio": "Indonesia is an archipelago of over 17,000 islands, known for its stunning natural landscapes, rich cultural heritage, and warm hospitality. Visitors can explore diverse attractions such as the ancient Borobudur temple, the vibrant city of Jakarta, and the lush rice terraces of Bali. Indonesia is home to unique wildlife like the Komodo dragon and offers world-class diving spots in Raja Ampat. The country's cuisine is a mix of flavors and influences, reflecting its varied history. With its tropical climate, Indonesia is perfect for beach lovers, adventure seekers, and cultural enthusiasts alike.",
         "climate": [
             "hot",
@@ -744,12 +744,12 @@
         ],
         "cost": 2
     },
-    "Isle of Man": {
+    "isle of man": {
         "bio": "The Isle of Man is a self-governing British Crown dependency located in the Irish Sea between England and Ireland. Known for its rugged coastline, medieval castles, and ancient Viking heritage, the island offers a unique blend of history and natural beauty. Visitors can explore the historic capital of Douglas, visit the ancient site of Peel Castle, or experience the thrill of the annual TT motorcycle race. The Isle of Man also boasts picturesque villages, scenic hiking trails, and a rich cultural heritage, making it a popular destination for history buffs and outdoor enthusiasts alike.",
         "climate": [],
         "cost": 2
     },
-    "India": {
+    "india": {
         "bio": "India is a diverse country known for its rich history, vibrant culture, and stunning landscapes. Tourists can explore historical sites like the Taj Mahal, ancient temples, and bustling markets. The country is also famous for its delicious cuisine, colorful festivals, and traditional arts and crafts. India is home to diverse landscapes, from the snow-capped Himalayas in the north to the tropical beaches of Goa in the south. Wildlife enthusiasts can visit national parks to spot tigers, elephants, and other exotic animals.",
         "climate": [
             "hot",
@@ -757,21 +757,21 @@
         ],
         "cost": 2
     },
-    "British Indian Ocean Territory": {
+    "british indian ocean territory": {
         "bio": "The British Indian Ocean Territory is an overseas territory of the United Kingdom located in the Indian Ocean. It is made up of 55 islands, notably Diego Garcia, which is home to a US naval support facility. The islands are known for their pristine beaches, crystal-clear waters, and stunning coral reefs, making them a paradise for snorkeling and scuba diving enthusiasts. Nature lovers can enjoy the unique flora and fauna, including giant coconut crabs and seabird colonies. While most of the territory is uninhabited, it offers a tranquil and secluded retreat for those seeking a remote tropical escape.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Ireland": {
+    "ireland": {
         "bio": "Ireland, known as the Emerald Isle, is famous for its stunning landscapes, rich history, and warm hospitality. Visitors can explore ancient castles, vibrant cities like Dublin and Galway, and breathtaking natural wonders such as the Cliffs of Moher and the Ring of Kerry. Ireland is also home to charming villages, traditional Irish music, and world-renowned breweries. Don't miss the chance to experience the lively atmosphere of a pub, enjoy a pint of Guinness, and learn about the country's folklore and legends. With its friendly locals and picturesque scenery, Ireland offers a truly unique travel experience.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Iran, Islamic Republic of": {
+    "iran, islamic republic of": {
         "bio": "Iran, officially known as the Islamic Republic of Iran, is a diverse country in the Middle East famous for its rich history, stunning architecture, and warm hospitality. Tourists are drawn to iconic landmarks like the ancient city of Persepolis, the vibrant bazaars of Tehran, and the stunning mosques of Isfahan. Visitors can also explore the beautiful landscapes of Iran, from the lush forests of Gilan to the deserts of Yazd. Iran is known for its delicious cuisine, colorful festivals, and welcoming locals. With a fascinating blend of tradition and modernity, Iran offers a unique travel experience for adventurous travelers.",
         "climate": [
             "hot",
@@ -779,7 +779,7 @@
         ],
         "cost": 2
     },
-    "Iraq": {
+    "iraq": {
         "bio": "Iraq is a country in Western Asia known for its rich history and culture. Visitors can explore ancient sites like Babylon and the Erbil Citadel. The bazaars of Baghdad offer a vibrant shopping experience, while the marshlands in the south provide a unique landscape to discover. Iraq is also home to the Mesopotamian Marshes, a UNESCO World Heritage site. Visitors can learn about the country's history at the National Museum of Iraq and enjoy traditional dishes like kebabs and biryani.",
         "climate": [
             "hot",
@@ -787,21 +787,21 @@
         ],
         "cost": 2
     },
-    "Iceland": {
+    "iceland": {
         "bio": "Iceland, known as the Land of Fire and Ice, is famous for its stunning landscapes including geysers, hot springs, glaciers, and black sand beaches. Visitors can explore the Golden Circle, Blue Lagoon, and witness the Northern Lights in winter. Iceland's rich culture offers traditional cuisine, music, and art, along with unique experiences like swimming in thermal pools and hiking volcanic trails. Don't miss the iconic waterfalls like Gullfoss and Seljalandsfoss. With a small population and vast natural beauty, Iceland is perfect for outdoor enthusiasts and adventure seekers.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Israel": {
+    "israel": {
         "bio": "Israel, located in the Middle East, is a land of ancient history and diverse cultures. It is considered a sacred land for three major world religions. Visitors can explore historical sites like Jerusalem's Old City, the Dead Sea, and Bethlehem. The vibrant city of Tel Aviv offers beautiful beaches, a thriving culinary scene, and a lively nightlife. Nature enthusiasts will enjoy hiking in the stunning landscapes of the Golan Heights and the Negev Desert. Israel is also known for its innovation and technology hubs, contributing to its dynamic and modern identity.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Italy": {
+    "italy": {
         "bio": "Italy is a beautiful country known for its rich history, stunning architecture, and delicious cuisine. Visitors can explore iconic landmarks such as the Colosseum in Rome, the canals of Venice, and the leaning tower of Pisa. Italy is also home to picturesque coastal towns like Cinque Terre and Amalfi. With a strong artistic heritage, art enthusiasts can marvel at masterpieces by Michelangelo, Leonardo da Vinci, and Caravaggio. Don't miss the opportunity to try authentic Italian pasta, pizza, and gelato. Italy is a country that seamlessly blends ancient charm with modern luxury.",
         "climate": [
             "hot",
@@ -809,7 +809,7 @@
         ],
         "cost": 2
     },
-    "Jamaica": {
+    "jamaica": {
         "bio": "Jamaica is a vibrant Caribbean island known for its rich culture, reggae music, and beautiful beaches. Tourists can explore the historic capital city of Kingston, visit the iconic Blue Mountains, and relax on the famous white sand beaches like Negril and Montego Bay. Don't miss the chance to try delicious Jamaican cuisine, including jerk chicken and ackee and saltfish. Explore the unique natural wonders such as Dunn's River Falls and the Luminous Lagoon, where the water lights up at night. Jamaica is a paradise for adventure seekers and beach lovers alike.",
         "climate": [
             "hot",
@@ -817,14 +817,14 @@
         ],
         "cost": 2
     },
-    "Jersey": {
+    "jersey": {
         "bio": "Jersey is a beautiful island located in the English Channel, known for its stunning landscapes and rich history. Visitors can explore picturesque coastal paths, sandy beaches, and charming villages. One of the top tourist destinations is Mont Orgueil Castle, offering panoramic views of the island. Jersey also boasts a vibrant culinary scene, with fresh seafood and local produce. Don't miss the famous Jersey Royal potatoes and delicious dairy products. The island has a unique mix of British and French influences, reflected in its architecture and culture.",
         "climate": [
             "mild"
         ],
         "cost": 2
     },
-    "Jordan": {
+    "jordan": {
         "bio": "Jordan, located in the Middle East, is a fascinating country known for its ancient history and stunning landscapes. Tourists are drawn to iconic sites like Petra, an ancient city carved into pink sandstone cliffs, and the surreal landscape of Wadi Rum desert. Visitors can float in the healing waters of the Dead Sea, explore Roman ruins in Jerash, and experience the vibrant culture of Amman. Jordan is a safe and welcoming destination with warm hospitality and delicious Middle Eastern cuisine. Don't miss the chance to visit the ancient city of Petra, one of the New Seven Wonders of the World.",
         "climate": [
             "hot",
@@ -832,7 +832,7 @@
         ],
         "cost": 2
     },
-    "Japan": {
+    "japan": {
         "bio": "Japan is a fascinating blend of ancient traditions and modern technology. Visitors can explore historic temples and shrines, wander through beautiful cherry blossom gardens, and enjoy the vibrant street food scene. Tokyo, with its bustling neighborhoods and innovative architecture, is a must-visit city. Experience the tranquility of Kyoto's traditional tea houses and gardens, and relax in the natural hot springs of onsen towns like Hakone. Japan is also known for its unique pop culture, including anime and manga. Don't miss the chance to witness iconic sights like Mount Fuji and the traditional Geisha districts.",
         "climate": [
             "hot",
@@ -840,7 +840,7 @@
         ],
         "cost": 2
     },
-    "Kazakhstan": {
+    "kazakhstan": {
         "bio": "Kazakhstan, the world's largest landlocked country, is known for its vast steppes, towering mountains, and ancient Silk Road history. The modern capital city of Nur-Sultan boasts futuristic architecture, while Almaty offers a blend of Soviet-era and modern buildings. Tourists can explore the Charyn Canyon, a stunning natural wonder similar to the Grand Canyon, or visit the beautiful Big Almaty Lake. Kazakhstan is also home to the Baikonur Cosmodrome, the world's first and largest operational space launch facility. Traditional yurts, warm hospitality, and nomadic culture make Kazakhstan a unique destination for adventurous travelers.",
         "climate": [
             "hot",
@@ -848,21 +848,21 @@
         ],
         "cost": 2
     },
-    "Kenya": {
+    "kenya": {
         "bio": "Located in East Africa, Kenya is famous for its diverse landscapes, wildlife, and culture. Visitors can experience thrilling safaris in national parks like Maasai Mara and Amboseli, home to iconic wildlife such as lions, elephants, and giraffes. The coastal city of Mombasa offers beautiful beaches and a rich Swahili heritage. Don't miss the chance to visit the Great Rift Valley and witness the stunning views of lakes and mountains. Kenya is known for its traditional Maasai tribes, vibrant markets, and delicious cuisine featuring dishes like nyama choma (grilled meat).",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Kyrgyzstan": {
+    "kyrgyzstan": {
         "bio": "Kyrgyzstan is a landlocked country in Central Asia known for its stunning mountain landscapes, nomadic culture, and hospitality. Travelers can explore the rugged beauty of the Tien Shan mountains, visit traditional yurt camps, and experience the vibrant local markets. Don't miss the historic city of Osh, the pristine alpine lake of Issyk-Kul, and the ancient petroglyphs of Cholpon-Ata. Kyrgyzstan is a paradise for outdoor enthusiasts with opportunities for trekking, horseback riding, and skiing. The country's rich history as a stop on the Silk Road adds an intriguing dimension to its cultural heritage.",
         "climate": [
             "cold"
         ],
         "cost": 1
     },
-    "Cambodia": {
+    "cambodia": {
         "bio": "Cambodia, located in Southeast Asia, is known for its rich history, stunning temples, and vibrant culture. One of the must-visit destinations in Cambodia is the ancient city of Angkor Wat, a UNESCO World Heritage site. Visitors can also explore the bustling capital city of Phnom Penh, sample delicious Cambodian cuisine, and relax on the beautiful beaches of Sihanoukville. Cambodia is also home to the Tonle Sap Lake, one of the largest freshwater lakes in Southeast Asia. Visitors can immerse themselves in the local culture by visiting traditional markets and interacting with friendly locals.",
         "climate": [
             "hot",
@@ -870,7 +870,7 @@
         ],
         "cost": 2
     },
-    "Kiribati": {
+    "kiribati": {
         "bio": "Kiribati is a welcoming island nation located in the central Pacific Ocean. Comprising 33 atolls and reef islands, it offers picturesque white sandy beaches, vibrant marine life, and traditional Polynesian culture. Visitors can enjoy water activities like snorkeling, diving, and fishing, or explore the local villages and learn about Kiribati's unique customs and history. Notable attractions include the Phoenix Islands Protected Area, Fanning Island, and the Kiribati Parliament House. Kiribati is also known for being one of the first countries to usher in the new year due to its location on the International Date Line.",
         "climate": [
             "hot",
@@ -878,7 +878,7 @@
         ],
         "cost": 2
     },
-    "Saint Kitts and Nevis": {
+    "saint kitts and nevis": {
         "bio": "Saint Kitts and Nevis is a picturesque dual-island nation in the Caribbean known for its stunning beaches, lush rainforests, and rich history. Visitors can explore the well-preserved Brimstone Hill Fortress National Park, a UNESCO World Heritage Site, and relax on the black-sand beaches of Frigate Bay. The islands also offer opportunities for hiking in the rainforest, diving in crystal-clear waters, and exploring charming colonial towns. Don't miss the annual Carnival celebrations with colorful parades and lively music. The local cuisine features fresh seafood and tropical fruits, reflecting the vibrant culture of the islands.",
         "climate": [
             "hot",
@@ -886,7 +886,7 @@
         ],
         "cost": 2
     },
-    "Korea, Republic of": {
+    "korea, republic of": {
         "bio": "South Korea, officially known as the Republic of Korea, is a vibrant country in East Asia known for its rich history, delicious cuisine, advanced technology, and stunning natural landscapes. Tourists can explore the bustling capital city of Seoul with its modern skyscrapers and historic palaces, visit traditional villages like Bukchon Hanok Village, and relax in serene temples such as Jogyesa. Don't miss out on hiking in Seoraksan National Park, shopping in lively markets, and enjoying K-pop performances. South Korea is also famous for its unique festivals and welcoming locals.",
         "climate": [
             "cold",
@@ -894,14 +894,14 @@
         ],
         "cost": 2
     },
-    "Kuwait": {
+    "kuwait": {
         "bio": "Kuwait, a small but affluent country in the Middle East, is known for its modern architecture, luxury shopping, and rich history. Visitors can explore the iconic Kuwait Towers, the Grand Mosque, and the historical Failaka Island. Kuwait City offers a vibrant mix of traditional bazaars and upscale malls showcasing international brands. Travelers can also take a desert safari to experience the vast expanse of the Arabian Desert. Kuwait's cultural scene includes museums, art galleries, and traditional performances. With a strong emphasis on hospitality, Kuwait offers a blend of modern amenities and traditional Arabian charm.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Lao People's Democratic Republic": {
+    "lao people's democratic republic": {
         "bio": "Lao People's Democratic Republic, commonly known as Laos, is a landlocked country in Southeast Asia known for its breathtaking natural beauty and rich cultural heritage. Visitors can explore ancient temples in Luang Prabang, navigate the Mekong River, or trek through lush jungles to discover hidden waterfalls. Laos is a country where time seems to stand still, offering a peaceful and serene atmosphere for travelers seeking a slower pace of life. Don't miss experiencing the vibrant night markets, sampling delicious Lao cuisine, and interacting with the friendly locals.",
         "climate": [
             "hot",
@@ -909,7 +909,7 @@
         ],
         "cost": 2
     },
-    "Lebanon": {
+    "lebanon": {
         "bio": "Lebanon, located in the Middle East, offers a rich tapestry of history, culture, and natural beauty. Known for its vibrant nightlife, delicious cuisine, and stunning coastal landscapes, the country has a diverse range of attractions. Visitors can explore ancient ruins like Baalbek and Byblos, relax on the beaches of Tyre, or wander through the bustling streets of Beirut. Lebanon is also home to the stunning Kadisha Valley, a UNESCO World Heritage Site, and the impressive Jeita Grotto. With its mix of old and new, Lebanon is a captivating destination for travelers.",
         "climate": [
             "hot",
@@ -917,7 +917,7 @@
         ],
         "cost": 2
     },
-    "Liberia": {
+    "liberia": {
         "bio": "Liberia, located on the west coast of Africa, is known for its beautiful palm-fringed beaches, lush rainforests, and diverse wildlife. The country has a rich history as one of Africa's first republics and is home to vibrant cultural traditions. Tourists can explore the Sapo National Park, one of the largest areas of primary rainforest in West Africa, or visit the historic Providence Island, where freed American slaves first landed in the early 19th century. Liberia offers a unique blend of natural beauty and cultural heritage for adventurous travelers.",
         "climate": [
             "hot",
@@ -925,14 +925,14 @@
         ],
         "cost": 2
     },
-    "Libya": {
+    "libya": {
         "bio": "Libya is a North African country bordered by the Mediterranean Sea to the north. With its ancient historical sites, stunning desert landscapes, and vibrant markets, Libya offers a unique blend of culture and history. Tourists can visit the impressive Roman ruins of Leptis Magna and Sabratha, explore the desert city of Ghadames with its traditional architecture, or experience the vibrant atmosphere of Tripoli's old town. Libya is also known for its rich nomadic heritage and traditional Berber arts and crafts. Despite recent unrest, Libya's natural beauty and historical sites continue to attract adventurous travelers.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Saint Lucia": {
+    "saint lucia": {
         "bio": "Saint Lucia is a stunning Caribbean island known for its lush rainforests, iconic Piton mountains, and beautiful beaches. Castries, the capital, offers vibrant markets and a lively atmosphere. Visitors can explore the picturesque fishing village of Soufrière, visit the Diamond Botanical Gardens, or hike through the En bwa Nature Reserve. Saint Lucia is also famous for its volcanic mud baths and mineral springs. For adventure seekers, activities like snorkeling, diving, and zip-lining are popular. Don't miss the annual Saint Lucia Jazz Festival, offering world-class music in a spectacular setting.",
         "climate": [
             "hot",
@@ -940,14 +940,14 @@
         ],
         "cost": 2
     },
-    "Liechtenstein": {
+    "liechtenstein": {
         "bio": "Liechtenstein is a tiny, landlocked country in Central Europe known for its stunning mountain landscapes, quaint villages, and fairytale-like castles. The capital, Vaduz, is home to the impressive Vaduz Castle and the Kunstmuseum Liechtenstein showcasing modern art. Outdoor enthusiasts can enjoy hiking, skiing, and mountain biking in the picturesque Alps. Don't miss a visit to Gutenberg Castle in the town of Balzers or a scenic drive along the scenic Malbun Loop road. Liechtenstein is a peaceful and prosperous country with a rich cultural heritage and a strong emphasis on conservation and sustainability.",
         "climate": [
             "cold"
         ],
         "cost": 3
     },
-    "Sri Lanka": {
+    "sri lanka": {
         "bio": "Sri Lanka, known as the pearl of the Indian Ocean, is a tropical island with a rich history and diverse culture. Visitors can explore ancient ruins such as Sigiriya, relax on beautiful beaches like Mirissa, and go on safari in national parks like Yala. The country is famous for its flavorful cuisine, tea plantations, and friendly locals. Don't miss the chance to see elephants at Pinnawala Elephant Orphanage or visit the Temple of the Tooth in Kandy. Sri Lanka offers a unique blend of adventure, relaxation, and cultural experiences.",
         "climate": [
             "hot",
@@ -955,36 +955,36 @@
         ],
         "cost": 2
     },
-    "Lesotho": {
+    "lesotho": {
         "bio": "Lesotho, known as the 'Kingdom in the Sky', is a high-altitude country located in southern Africa. It is a mountainous region with breathtaking landscapes, offering excellent opportunities for trekking and outdoor adventures. Visitors can explore the iconic Mount Qiloane, the Maletsunyane Falls, and the beautiful Sehlabathebe National Park. Lesotho is also famous for its traditional Basotho culture, reflected in its arts, crafts, and music. Tourists can experience the warm hospitality of the locals and witness colorful cultural festivals. Overall, Lesotho is a hidden gem waiting to be discovered.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Lithuania": {
+    "lithuania": {
         "bio": "Lithuania, located in the Baltic region of Europe, offers a mix of charming old towns, cultural heritage, and beautiful nature. Vilnius, the capital city, is known for its well-preserved medieval architecture and lively arts scene. The Hill of Crosses, a unique pilgrimage site, and the Curonian Spit, a UNESCO World Heritage site with breathtaking sand dunes, are must-visit attractions. Lithuania has a rich history, evident in its museums and historical sites. Traditional Lithuanian cuisine and local crafts also add to the country's allure.",
         "climate": [],
         "cost": 2
     },
-    "Luxembourg": {
+    "luxembourg": {
         "bio": "Luxembourg is a small but charming country in Western Europe known for its stunning landscapes, medieval castles, and picturesque towns. Visitors can explore the historic old town of Luxembourg City, a UNESCO World Heritage site, and marvel at the beauty of the Ardennes forest and the Moselle River. Don't miss the impressive Bock Casemates, underground tunnels carved into the rock. Luxembourg also offers a unique blend of cultures with influences from France, Germany, and Belgium. Food lovers will enjoy the delicious local cuisine, including traditional dishes like Judd mat Gaardebounen (smoked neck of pork with broad beans).",
         "climate": [],
         "cost": 2
     },
-    "Latvia": {
+    "latvia": {
         "bio": "Latvia, a Baltic country in Northern Europe, is known for its diverse culture, history, and nature. Visitors can explore the charming capital city, Riga, with its stunning architecture, vibrant art scene, and lively nightlife. Nature lovers will enjoy the lush forests, scenic coastline, and peaceful lakes of Latvia's countryside. Must-visit attractions include the medieval Old Town in Riga, the beautiful National Parks like Gauja and Kemeri, and the picturesque seaside town of Jurmala. Latvia is also famous for its rich folklore traditions, delicious food, and warm hospitality.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Macao": {
+    "macao": {
         "bio": "Macao, also known as Macau, is a special administrative region of China that was a Portuguese territory until 1999. It is a vibrant destination with a fascinating blend of Portuguese and Chinese cultures. Tourists flock to the iconic Ruins of St. Paul's, the dazzling casinos on the Cotai Strip, and the historic Taipa Village. Macao is famous for its delicious food scene, from street food stalls to Michelin-starred restaurants. Don't miss the Macanese egg tarts and pork chop buns. The city is also home to lively festivals like the Macau Grand Prix and the International Fireworks Display Contest.",
         "climate": [],
         "cost": 2
     },
-    "Saint Martin (French part)": {
+    "saint martin (french part)": {
         "bio": "Saint Martin is a captivating Caribbean island known for its dual nationality (French and Dutch), pristine beaches, and vibrant culture. The French side offers charming villages, gourmet dining experiences, and picturesque coastal views. Visitors can explore the lively markets and historic sites in Marigot, relax on the white sandy beaches of Orient Bay, or hike through the lush forests of Loterie Farm. The island is also popular for water sports like snorkeling, diving, and sailing. Simpson Bay Lagoon and Maho Beach are must-visit spots for unique experiences like plane spotting.",
         "climate": [
             "hot",
@@ -992,7 +992,7 @@
         ],
         "cost": 2
     },
-    "Morocco": {
+    "morocco": {
         "bio": "Morocco, located in North Africa, is a country rich in culture and history. Visitors can explore vibrant cities like Marrakech and Fez with their bustling medinas and colorful souks. The country is known for its stunning architecture, such as the intricate tilework of the Hassan II Mosque in Casablanca. Nature enthusiasts can trek the Atlas Mountains or visit the Sahara Desert for a unique experience. Don't miss out on trying Moroccan cuisine, with dishes like tagine and couscous. Overall, Morocco offers a blend of tradition and modernity that captivates travelers.",
         "climate": [
             "hot",
@@ -1000,26 +1000,26 @@
         ],
         "cost": 2
     },
-    "Monaco": {
+    "monaco": {
         "bio": "Monaco, a tiny independent city-state on the French Riviera, is known for its glitzy casinos, luxurious yachts, and glamorous events like the Monaco Grand Prix. Visitors can explore the historic Prince's Palace, the Oceanographic Museum, and the beautiful Jardin Exotique. Monaco is also famous for its high-end shopping, fine dining, and vibrant nightlife. With its stunning Mediterranean coastline and picturesque views, Monaco offers a luxurious and exclusive travel experience.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Moldova, Republic of": {
+    "moldova, republic of": {
         "bio": "Moldova, Republic of, is a landlocked country in Eastern Europe known for its rich wine culture. Visitors can explore the picturesque vineyards and taste world-class wines in cellars across the country. Chisinau, the capital, is home to striking architecture, including the Nativity Cathedral and Triumphal Arch. The Orheiul Vechi archaeological complex offers a glimpse into Moldova's history, with cave monasteries carved into limestone cliffs. Tourists can also visit the beautiful Soroca Fortress and enjoy the serene landscapes of Codru Forest. Moldova is a hidden gem for wine enthusiasts and history lovers alike.",
         "climate": [],
         "cost": 1
     },
-    "Madagascar": {
+    "madagascar": {
         "bio": "Madagascar, the fourth largest island in the world, is known for its unique wildlife and diverse ecosystems. Visitors can explore national parks such as Andasibe-Mantadia and Isalo, home to lemurs, chameleons, and baobab trees. The Avenue of the Baobabs is a popular spot for photography enthusiasts. Madagascar's culture is a blend of African and Asian influences, evident in its traditional music, dance, and cuisine. The bustling capital city of Antananarivo offers a vibrant market scene and historic sites like the Queen's Palace. With stunning beaches and coral reefs, Madagascar is a paradise for nature lovers.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Maldives": {
+    "maldives": {
         "bio": "The Maldives, a tropical paradise in the Indian Ocean, is known for its stunning white sandy beaches, crystal-clear turquoise waters, and vibrant coral reefs. It is a popular destination for honeymooners and water sports enthusiasts. Visit the capital city of Malé for a taste of local culture and explore the luxurious overwater bungalows on secluded islands. Don't miss the opportunity to go snorkeling or diving to witness the diverse marine life including manta rays and whale sharks. With over 1,000 coral islands, the Maldives offers a unique and unforgettable experience for travelers.",
         "climate": [
             "hot",
@@ -1027,14 +1027,14 @@
         ],
         "cost": 3
     },
-    "Mexico": {
+    "mexico": {
         "bio": "Mexico is a diverse country known for its rich history, vibrant culture, and stunning natural landscapes. Tourists flock to Mexico for its beautiful beaches along the Riviera Maya, fascinating ancient ruins such as Chichen Itza and Teotihuacan, and delicious cuisine including tacos, tamales, and guacamole. Mexico is also famous for its colorful festivals like Dia de los Muertos and lively traditional music and dance performances. With a mix of indigenous and Spanish influences, Mexico offers visitors a unique and unforgettable experience.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Marshall Islands": {
+    "marshall islands": {
         "bio": "The Marshall Islands is a stunning tropical paradise located in the Pacific Ocean, known for its crystal-clear waters and vibrant coral reefs. It is composed of 29 coral atolls and 5 single islands, offering a unique and tranquil getaway for visitors. Dive enthusiasts can explore World War II wrecks and an abundance of marine life, while history buffs can visit traditional Micronesian villages and learn about the island's rich cultural heritage. Majuro, the capital city, is a bustling hub with markets, shops, and restaurants serving fresh seafood. Don't miss out on the opportunity to witness breathtaking sunsets over the ocean.",
         "climate": [
             "hot",
@@ -1042,12 +1042,12 @@
         ],
         "cost": 2
     },
-    "North Macedonia": {
+    "north macedonia": {
         "bio": "North Macedonia, located in the Balkan Peninsula, offers a blend of rich history, stunning landscapes, and warm hospitality. Skopje, the capital, boasts a mix of Ottoman, Byzantine, and modern architecture. Lake Ohrid, a UNESCO World Heritage site, is known for its crystal-clear waters and ancient churches. The country also offers delicious cuisine, featuring dishes like tavce gravce (baked beans) and ajvar (pepper relish). North Macedonia is a paradise for outdoor enthusiasts, with opportunities for hiking, skiing, and exploring its national parks.",
         "climate": [],
         "cost": 2
     },
-    "Mali": {
+    "mali": {
         "bio": "Mali is a landlocked country in West Africa known for its rich history and vibrant culture. Home to the legendary city of Timbuktu, Mali offers a unique blend of ancient architecture, traditional music, and colorful markets. Visitors can explore the fascinating mud-brick mosques, take a ride on a traditional pinasse boat along the Niger River, or experience the exhilarating Festival au Désert. Mali is also famous for its diverse wildlife, including elephants, giraffes, and cheetahs in national parks like Boucle du Baoulé and Gourma. With warm hospitality and a welcoming atmosphere, Mali is a must-visit destination for adventurous travelers.",
         "climate": [
             "hot",
@@ -1055,7 +1055,7 @@
         ],
         "cost": 2
     },
-    "Malta": {
+    "malta": {
         "bio": "Malta is a charming Mediterranean island country known for its historic sites, crystal-clear waters, and vibrant culture. Visitors can explore the ancient city of Mdina, relax on the sandy beaches of Golden Bay, or marvel at the stunning Blue Grotto sea caves. Malta's rich history is evident in its architecture, with impressive examples like the megalithic temples of Ħaġar Qim and the fortified city of Valletta. Traditional Maltese cuisine offers a delightful blend of Mediterranean flavors. Don't miss the lively festivals and events that showcase the country's unique heritage.",
         "climate": [
             "hot",
@@ -1063,40 +1063,40 @@
         ],
         "cost": 2
     },
-    "Myanmar": {
+    "myanmar": {
         "bio": "Myanmar, formerly known as Burma, is a country in Southeast Asia known for its rich cultural heritage and stunning landscapes. Visitors can explore ancient temples in Bagan, take a cruise along the Irrawaddy River, or trek through the hills of Shan State. Inle Lake is popular for its floating gardens and traditional villages. Yangon, the largest city, is home to the shimmering Shwedagon Pagoda. Myanmar is also known for its diverse cuisine, influenced by Chinese, Indian, and Thai flavors.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Montenegro": {
+    "montenegro": {
         "bio": "Montenegro, located in Southeastern Europe, is known for its stunning Adriatic coastline and rugged mountains. The country offers a mix of cultural heritage, beautiful beaches, and outdoor activities such as hiking and rafting. Visit the charming old town of Kotor, a UNESCO World Heritage Site, or explore the pristine waters of Lake Skadar, the largest lake in the Balkans. For a taste of luxury, head to the upscale resort town of Budva. Montenegro also boasts a rich history, with influences from ancient Romans, Venetians, and Ottoman empires.",
         "climate": [],
         "cost": 2
     },
-    "Mongolia": {
+    "mongolia": {
         "bio": "Mongolia is a landlocked country in East Asia known for its vast, rugged landscapes, including the Gobi Desert and vast steppes. Visitors can experience the nomadic way of life, visit ancient monasteries, and explore the historical sites of the Mongol Empire. Don't miss the capital city of Ulaanbaatar, with its museums, markets, and traditional performances. Adventure seekers can take part in activities like horse riding, camel trekking, and hiking in the stunning countryside. Mongolia is also home to unique wildlife, including the elusive snow leopard.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Northern Mariana Islands": {
+    "northern mariana islands": {
         "bio": "The Northern Mariana Islands are a chain of 15 islands in the western Pacific Ocean. The islands offer a unique blend of Chamorro and Carolinian cultures, with traditional crafts, music, and dance. One of the top destinations is the underwater explorations at the Grotto, a popular dive spot with crystal clear waters and diverse marine life. Visitors can also hike up Mount Tapochau for stunning panoramic views of the islands. Saipan, the largest island, is known for its World War II history, including the American Memorial Park. The islands are a peaceful and picturesque destination for nature lovers and history buffs alike.",
         "climate": [
             "humid"
         ],
         "cost": 2
     },
-    "Mozambique": {
+    "mozambique": {
         "bio": "Mozambique, located in southeastern Africa, is known for its stunning coastline along the Indian Ocean, offering pristine beaches and vibrant marine life for diving and snorkeling enthusiasts. A rich cultural heritage is showcased in the diverse architecture, music, and traditional dances. Visitors can explore the historic Island of Mozambique, a UNESCO World Heritage Site, or embark on a safari in the vast national parks to spot elephants, lions, and zebras. With a blend of Portuguese and local influences, Mozambique offers a unique culinary experience with delicious seafood dishes.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Mauritania": {
+    "mauritania": {
         "bio": "Mauritania is a country in West Africa known for its vast deserts and Saharan landscapes. Visitors can explore the ancient city of Chinguetti with its historic libraries, go on a desert trek to the Eye of the Sahara, and visit Banc d'Arguin National Park for birdwatching and fishing. The country also offers a unique opportunity to experience traditional Berber and Bedouin cultures. Mauritania is rich in history with archaeological sites like the ancient trading post of Oualâta. It is a place where visitors can immerse themselves in the desert environment and traditional nomadic lifestyle.",
         "climate": [
             "hot",
@@ -1104,7 +1104,7 @@
         ],
         "cost": 2
     },
-    "Montserrat": {
+    "montserrat": {
         "bio": "Montserrat is a tropical paradise located in the Caribbean known for its stunning beaches, vibrant culture, and active Soufrière Hills volcano. Visitors can explore the Montserrat Volcano Observatory to learn about the island's volcanic history or relax on the black sand beaches of Rendezvous Bay. The island's rich Afro-Irish heritage is showcased in its music and cuisine, with festivals like St. Patrick's Week celebrating this unique fusion. Popular attractions include the Montserrat Cultural Centre and the abandoned city of Plymouth buried by volcanic ash. Montserrat offers a peaceful retreat for nature lovers and history enthusiasts alike.",
         "climate": [
             "hot",
@@ -1112,7 +1112,7 @@
         ],
         "cost": 2
     },
-    "Martinique": {
+    "martinique": {
         "bio": "Martinique is a Caribbean island known for its stunning natural beauty and mix of French and Creole culture. Visitors can explore lush rainforests, pristine beaches, and historic plantations. Must-see attractions include Mount Pelée, a dormant volcano, the picturesque village of Les Anses-d'Arlet, and the vibrant markets of Fort-de-France. Martinique is also famous for its rum production, with many distilleries offering tours and tastings. Don't miss trying local dishes like accras (cod fritters) and boudin (blood sausage). With its blend of tropical landscapes and French flair, Martinique offers a unique and unforgettable travel experience.",
         "climate": [
             "hot",
@@ -1120,7 +1120,7 @@
         ],
         "cost": 2
     },
-    "Mauritius": {
+    "mauritius": {
         "bio": "Mauritius is a beautiful island nation in the Indian Ocean known for its stunning beaches, coral reefs, and diverse landscapes. Popular tourist destinations include the vibrant capital city of Port Louis, the picturesque Grand Baie, and the stunning Black River Gorges National Park. Visitors can also enjoy water activities like snorkeling, diving, and dolphin watching. Mauritius is a melting pot of cultures, with influences from Africa, India, Europe, and China. The country is also famous for its rum and sugar cane production. Overall, Mauritius offers a unique blend of natural beauty, cultural richness, and luxury experiences.",
         "climate": [
             "hot",
@@ -1128,14 +1128,14 @@
         ],
         "cost": 2
     },
-    "Malawi": {
+    "malawi": {
         "bio": "Malawi, known as the 'Warm Heart of Africa,' offers stunning landscapes with its picturesque lakes, mountains, and wildlife. Visit Lake Malawi to enjoy water activities or explore national parks like Liwonde and Nyika for wildlife-viewing opportunities. Malawi's culture is rich with traditional music and dance performances, and the vibrant markets provide a glimpse into local life. Blantyre, the commercial capital, showcases colonial architecture and bustling markets. Also, don't miss the impressive Mulanje Massif mountain range, ideal for hiking enthusiasts. Malawi's friendly locals and natural beauty make it a hidden gem worth exploring.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Malaysia": {
+    "malaysia": {
         "bio": "Malaysia is a vibrant country located in Southeast Asia known for its diverse culture, stunning landscapes, and bustling cities. Tourists flock to the iconic Petronas Twin Towers in Kuala Lumpur, the beautiful beaches of Langkawi, and the historic city of Malacca. Malaysia is also famous for its delicious street food, featuring dishes like nasi lemak and char kway teow. Visitors can explore the lush rainforests of Taman Negara or witness the unique wildlife in Borneo. With a harmonious blend of Malay, Chinese, Indian, and indigenous influences, Malaysia offers a rich tapestry of experiences for travelers.",
         "climate": [
             "hot",
@@ -1143,7 +1143,7 @@
         ],
         "cost": 2
     },
-    "Mayotte": {
+    "mayotte": {
         "bio": "Mayotte is a French department located in the Indian Ocean, known for its stunning coral reefs and turquoise waters. Visitors can enjoy snorkeling, diving, and exploring the rich marine life. The island also offers volcanic landscapes, lush forests, and beautiful beaches perfect for relaxation. Don't miss the iconic Dziani Dzaha volcanic crater or the traditional markets to experience the local culture. Mayotte is a blend of French and African influences, offering a unique and diverse travel experience.",
         "climate": [
             "hot",
@@ -1151,7 +1151,7 @@
         ],
         "cost": 2
     },
-    "Namibia": {
+    "namibia": {
         "bio": "Namibia, located in southwestern Africa, offers diverse landscapes from the desolate Namib Desert to the wildlife-rich Etosha National Park. Visitors can explore the red dunes of Sossusvlei, spot elephants in Damaraland, or marvel at the Fish River Canyon, the second largest canyon in the world. The country is known for its rich cultural heritage, with various tribes like the Himba and San people. Adventure seekers can enjoy activities such as hot air balloon rides, quad biking in the desert, and trekking in the rugged mountains. Namibia is a photographer's paradise with stunning scenery and abundant wildlife.",
         "climate": [
             "hot",
@@ -1159,7 +1159,7 @@
         ],
         "cost": 2
     },
-    "New Caledonia": {
+    "new caledonia": {
         "bio": "New Caledonia is a tropical paradise in the South Pacific known for its stunning beaches, crystal-clear waters, and vibrant coral reefs. The capital city, Nouméa, combines French sophistication with Melanesian culture, offering a unique blend of cuisine and architecture. Visitors can explore the beautiful Isle of Pines, hike through lush rainforests, or relax in natural hot springs. The country is a diver's haven, with world-class diving sites scattered throughout its waters, including the famous UNESCO-listed Natural Park of the Coral Sea. New Caledonia is also home to diverse wildlife, such as the unique Kagu bird.",
         "climate": [
             "hot",
@@ -1167,56 +1167,56 @@
         ],
         "cost": 2
     },
-    "Niger": {
+    "niger": {
         "bio": "Niger is a landlocked country in West Africa known for its stunning landscapes, including the Sahara Desert and the rugged Sahel region. Visitors can marvel at the majestic sand dunes of the Tenere Desert, visit the historic city of Agadez with its mud-brick architecture, and explore the diverse wildlife in parks like W National Park. Niger is also home to the vibrant nomadic cultures of the Tuareg and Wodaabe peoples, offering a unique cultural experience. Don't miss the annual Cure Salee festival, a colorful celebration of Tuareg culture. Niger is a country rich in history and natural beauty waiting to be explored.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Norfolk Island": {
+    "norfolk island": {
         "bio": "Norfolk Island is a small island in the Pacific Ocean known for its stunning natural beauty and rich history. This Australian territory offers a peaceful retreat for travelers seeking a tranquil escape. Tourists can explore the historical sites such as Kingston, a UNESCO World Heritage site, and learn about the island's fascinating past. Popular activities include swimming, snorkeling, and hiking in the lush green landscapes. Norfolk Island also hosts various cultural events and festivals throughout the year, offering visitors a chance to immerse themselves in the local culture.",
         "climate": [
             "humid"
         ],
         "cost": 2
     },
-    "Nigeria": {
+    "nigeria": {
         "bio": "Nigeria is a diverse country in West Africa known for its vibrant culture, delicious cuisine, and bustling cities like Lagos and Abuja. Tourists can explore beautiful natural landmarks such as Zuma Rock, Yankari National Park, and Idanre Hills. Nigeria is also home to historic sites like the ancient city of Benin and the slave trade relics in Badagry. Visitors can experience traditional music and dance, colorful markets, and friendly locals. Don't miss the opportunity to try Nigerian jollof rice and suya. Nigeria is a country full of energy and rich history waiting to be explored.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Nicaragua": {
+    "nicaragua": {
         "bio": "Nicaragua is known for its stunning landscape of volcanoes, lakes, and beaches. Tourists can explore the colonial architecture of Granada, relax on the beautiful beaches of San Juan del Sur, or hike through the lush rainforests of the Bosawás Biosphere Reserve. The country is also famous for its vibrant culture, delicious cuisine, and friendly locals. Don't miss visiting the iconic Masaya Volcano, exploring the stunning Ometepe Island, or surfing the waves at Popoyo. Nicaragua offers a unique blend of adventure, relaxation, and natural beauty for all types of travelers.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Niue": {
+    "niue": {
         "bio": "Niue is a small island country in the South Pacific Ocean known for its stunning natural beauty and crystal-clear waters. It is one of the world's largest coral islands and offers excellent snorkeling and diving opportunities. Visitors can explore the limestone caves, ancient Polynesian ruins, and lush tropical forests. The island is also a popular spot for whale watching, with humpback whales visiting the waters between July and October. Niue is a great destination for those seeking a peaceful and remote getaway.",
         "climate": [
             "humid"
         ],
         "cost": 2
     },
-    "Netherlands": {
+    "netherlands": {
         "bio": "The Netherlands, known for its picturesque windmills, tulip fields, and picturesque canals, is a charming destination in Western Europe. Visitors can explore the vibrant city of Amsterdam with its historic architecture and world-class museums like the Van Gogh Museum and Rijksmuseum. Keukenhof Gardens showcases the country's famous tulips in bloom every spring, while the iconic Kinderdijk windmills offer a glimpse into Dutch history. Don't miss the beautiful countryside with its cycling routes and traditional villages. The Netherlands is also famous for its cheese, wooden clogs, and iconic Delftware pottery.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Norway": {
+    "norway": {
         "bio": "Norway, known for its stunning natural landscapes, is a paradise for outdoor enthusiasts. With majestic fjords, snow-capped mountains, and vibrant cities like Oslo and Bergen, there is something for everyone in this Scandinavian gem. Don't miss exploring the picturesque Arctic region, witnessing the mesmerizing Northern Lights, or experiencing the unique Sami culture. Norway is also home to fascinating Viking history and delicious seafood cuisine. Visit iconic attractions such as the Geirangerfjord, Lofoten Islands, and the famous Flåm Railway for an unforgettable adventure.",
         "climate": [
             "cold"
         ],
         "cost": 3
     },
-    "Nepal": {
+    "nepal": {
         "bio": "Nepal is a country known for its breathtaking Himalayan peaks, including Mount Everest. It is rich in cultural heritage, with ancient temples, monasteries, and vibrant festivals. Popular tourist destinations include the capital city of Kathmandu, the lakeside town of Pokhara, and the adventure-filled city of Pokhara. Trekking in the Annapurna and Everest regions is a must-do for outdoor enthusiasts. Nepal is also home to diverse wildlife, such as tigers and rhinoceroses in Chitwan National Park. Don't miss experiencing the warm hospitality of the Nepalese people and trying delicious traditional cuisine.",
         "climate": [
             "hot",
@@ -1224,14 +1224,14 @@
         ],
         "cost": 2
     },
-    "Nauru": {
+    "nauru": {
         "bio": "Nauru is a small island country in the Pacific Ocean, known for its stunning coral reefs and beautiful beaches. The country has a unique history, having been under German, British, Australian, and Japanese control at different points. Visitors can explore ancient phosphate mines, swim in crystal-clear waters, and experience traditional Nauruan culture. Some popular tourist destinations include Anibare Bay, Command Ridge, and Buada Lagoon. Nauru is also home to diverse bird species, making it a great destination for birdwatching enthusiasts.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "New Zealand": {
+    "new zealand": {
         "bio": "New Zealand, known as the adventure capital of the world, boasts stunning landscapes ranging from pristine beaches to rugged mountains. This island country is famous for its outdoor activities like hiking, skydiving, and bungee jumping. Must-visit destinations include the geothermal wonders of Rotorua, the picturesque Milford Sound, and the bustling city of Auckland. With a rich Maori heritage and thriving arts scene, New Zealand offers visitors a unique cultural experience. Fun fact: it is home to more sheep than people! Nature enthusiasts will appreciate the diverse wildlife and conservation efforts throughout the country.",
         "climate": [
             "hot",
@@ -1239,7 +1239,7 @@
         ],
         "cost": 2
     },
-    "Oman": {
+    "oman": {
         "bio": "Oman is a country located in the Arabian Peninsula, known for its stunning desert landscapes, traditional architecture, and rich history. Visitors can explore ancient forts, bustling souks, and beautiful beaches along the coast. One of the highlights is the historic city of Muscat, with its grand mosques, royal palaces, and vibrant markets. Nature lovers can also discover the dramatic mountains of Jebel Akhdar and the breathtaking fjords of Musandam. Oman is a welcoming destination with a mix of modernity and traditional culture waiting to be explored.",
         "climate": [
             "hot",
@@ -1247,7 +1247,7 @@
         ],
         "cost": 2
     },
-    "Pakistan": {
+    "pakistan": {
         "bio": "Pakistan is a country in South Asia known for its diverse landscapes ranging from mountains to deserts. The country is rich in history, with ancient ruins, bustling cities, and vibrant markets. Tourists can visit historical sites like the Badshahi Mosque in Lahore or trek through the stunning Karakoram mountain range. Pakistan is also famous for its delicious cuisine, including biryani and kebabs. Fun fact: Pakistan is home to the second-highest mountain in the world, K2. Travelers can also explore the bustling streets of Karachi or experience the tranquility of the Hunza Valley.",
         "climate": [
             "hot",
@@ -1255,7 +1255,7 @@
         ],
         "cost": 1
     },
-    "Panama": {
+    "panama": {
         "bio": "Panama, located in Central America, is known for its stunning biodiversity and vibrant culture. Travelers can explore the Panama Canal, a marvel of engineering connecting the Atlantic and Pacific Oceans. The tropical rainforests provide opportunities for eco-tourism and wildlife encounters. Panama City, the bustling capital, offers a mix of historic and modern attractions, including Casco Viejo, a UNESCO World Heritage site. Visitors can enjoy beautiful beaches on both the Pacific and Caribbean coasts. Panama is also famous for its indigenous cultures, such as the Guna and Embera people, offering a rich cultural experience.",
         "climate": [
             "hot",
@@ -1263,14 +1263,14 @@
         ],
         "cost": 2
     },
-    "Pitcairn": {
+    "pitcairn": {
         "bio": "Pitcairn is a remote volcanic island in the South Pacific, known for its stunning natural beauty and historical significance as the home of the descendants of the HMS Bounty mutineers. Visitors can explore the rugged landscapes, pristine beaches, and unique flora and fauna of this tiny island. Popular tourist attractions include Adamstown, the only settlement on the island, and attractions related to the Bounty mutiny such as the grave sites of mutineers. Scuba diving and snorkeling are also popular activities due to the diverse marine life. Pitcairn offers a serene escape from the modern world.",
         "climate": [
             "humid"
         ],
         "cost": 2
     },
-    "Peru": {
+    "peru": {
         "bio": "Peru, located in South America, is famous for its ancient Incan city of Machu Picchu and the Amazon Rainforest. Visitors can explore the historic city of Cusco, enjoy the vibrant culture in Lima, and marvel at the Nazca Lines. Peru is also known for its diverse cuisine, including ceviche and guinea pig dishes. Outdoor enthusiasts can trek the Inca Trail or hike through the Colca Canyon. With a rich history and stunning landscapes, Peru offers a unique travel experience for adventurers and history buffs alike.",
         "climate": [
             "hot",
@@ -1278,7 +1278,7 @@
         ],
         "cost": 2
     },
-    "Philippines": {
+    "philippines": {
         "bio": "The Philippines is an archipelago of over 7,000 islands known for its stunning beaches, lush landscapes, and vibrant culture. Popular tourist destinations include the white sand beaches of Boracay, the iconic Chocolate Hills in Bohol, and the historic walled city of Intramuros in Manila. The country is also home to rich biodiversity, with opportunities for diving and wildlife spotting. Visitors can experience traditional Filipino cuisine, including dishes like adobo and lechon. The Philippines has a mix of influences from Spanish, American, and indigenous cultures, contributing to its unique identity.",
         "climate": [
             "hot",
@@ -1286,7 +1286,7 @@
         ],
         "cost": 2
     },
-    "Palau": {
+    "palau": {
         "bio": "Palau is an island country located in the western Pacific Ocean, known for its stunning coral reefs and world-class scuba diving spots like Blue Corner and Jellyfish Lake. The Rock Islands, a UNESCO World Heritage Site, offer breathtaking natural beauty with their unique limestone formations. Visitors can also learn about Palauan culture through traditional dances, crafts, and ceremonies. Fun fact: Palau was the first country to ban reef-toxic sunscreens to protect its marine biodiversity.",
         "climate": [
             "hot",
@@ -1294,7 +1294,7 @@
         ],
         "cost": 2
     },
-    "Papua New Guinea": {
+    "papua new guinea": {
         "bio": "Papua New Guinea is a country in the southwestern Pacific known for its diverse culture, stunning natural landscapes, and unique wildlife. The country is home to over 800 languages and is a paradise for adventure seekers, with opportunities for trekking, diving, and bird watching. Popular destinations include the Kokoda Track for hiking enthusiasts, the vibrant markets of Port Moresby, and the remote Sepik River region known for its traditional tribes. Interesting facts about Papua New Guinea include being home to the largest butterfly in the world and having some of the most intact coral reefs.",
         "climate": [
             "hot",
@@ -1302,14 +1302,14 @@
         ],
         "cost": 2
     },
-    "Poland": {
+    "poland": {
         "bio": "Poland is a country located in Central Europe known for its rich history, beautiful cities, and vibrant culture. Visitors can explore the medieval architecture of Krakow, visit the stunning Wawel Castle, and learn about World War II history at Auschwitz. The capital city, Warsaw, offers a mix of modern and historic attractions, including the Old Town and the Royal Castle. Nature lovers can enjoy the scenic landscapes of the Tatra Mountains and the Masurian Lake District. Poland is also famous for its delicious cuisine, including pierogi and kielbasa. Don't miss the lively festivals and traditional folk music performances.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Puerto Rico": {
+    "puerto rico": {
         "bio": "Puerto Rico is a vibrant island in the Caribbean known for its rich history, beautiful beaches, and lively culture. Visitors can explore the historic streets of Old San Juan, home to colorful colonial buildings and historic forts. For outdoor enthusiasts, El Yunque National Forest offers hiking trails through lush rainforest. Puerto Rico is also a food lover's paradise, with a blend of Spanish, African, and Taino influences creating a unique culinary scene. Don't miss the bioluminescent bays, where the water glows with microscopic organisms. Puerto Rico is a US territory, offering a perfect blend of Caribbean charm and American convenience.",
         "climate": [
             "hot",
@@ -1317,12 +1317,12 @@
         ],
         "cost": 2
     },
-    "Korea, Democratic People's Republic of": {
+    "korea, democratic people's republic of": {
         "bio": "The Democratic People's Republic of Korea, commonly known as North Korea, is located on the northern part of the Korean Peninsula. The country is known for its strict political regime and limited interaction with the outside world. Tourists can visit the capital city of Pyongyang to see grand monuments such as the Juche Tower and the Kumsusan Palace of the Sun. The Demilitarized Zone (DMZ) at the border with South Korea is also a popular attraction for visitors interested in the Korean War history. North Korea is a fascinating destination for those curious about its unique culture and political system.",
         "climate": [],
         "cost": 3
     },
-    "Portugal": {
+    "portugal": {
         "bio": "Portugal is a charming country in Southern Europe known for its rich history, stunning coastline, and delicious cuisine. Visitors can explore historic cities like Lisbon and Porto, relax on the beautiful beaches of the Algarve, or wander through picturesque vineyards in the Douro Valley. Don't miss the iconic Tower of Belém, the stunning Pena Palace, and the quaint villages of the Alentejo region. Portugal is also famous for its Port wine and custard tarts. With its warm and welcoming locals, Portugal offers a perfect blend of culture, history, and natural beauty.",
         "climate": [
             "hot",
@@ -1330,7 +1330,7 @@
         ],
         "cost": 2
     },
-    "Paraguay": {
+    "paraguay": {
         "bio": "Paraguay, a landlocked country in South America, is known for its diverse culture and stunning natural landscapes. Visitors can explore the historical capital city of Asunción, with its colonial architecture and vibrant markets. The Iguazu Falls on the border with Brazil and Argentina are a must-see natural wonder. Paraguay also offers unique experiences such as visiting indigenous communities and exploring Jesuit missions. The country has a rich musical heritage, with traditional genres like polka and guarania still popular today. Paraguay is a hidden gem waiting to be discovered by adventurous travelers.",
         "climate": [
             "hot",
@@ -1338,14 +1338,14 @@
         ],
         "cost": 1
     },
-    "Palestine, State of": {
+    "palestine, state of": {
         "bio": "Palestine, State of, a region in the Middle East, offers a mix of historic landmarks, cultural heritage, and beautiful landscapes for tourists. Visit Bethlehem to see the birthplace of Jesus, explore the ancient city of Jericho or experience the vibrant markets of Hebron. The Dead Sea, a salt lake bordered by Jordan to the east and Palestine to the west, is a popular destination known for its high saline waters and mineral-rich mud. With a rich history and diverse culture, Palestine, State of, welcomes visitors to explore its unique attractions.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "French Polynesia": {
+    "french polynesia": {
         "bio": "French Polynesia is a dream destination with its stunning turquoise waters, overwater bungalows, and lush green mountains. Visitors can explore the vibrant marine life by snorkeling or diving in the clear waters. Bora Bora is famous for its luxury resorts and amazing beaches, while Moorea offers a more laid-back atmosphere with opportunities for hiking and exploring pineapple plantations. Tahiti, the largest island, is home to the capital city Papeete and offers a mix of French and Polynesian cultures. Don't miss the opportunity to experience traditional Polynesian dance and music.",
         "climate": [
             "hot",
@@ -1353,14 +1353,14 @@
         ],
         "cost": 3
     },
-    "Qatar": {
+    "qatar": {
         "bio": "Qatar, a small but wealthy country in the Middle East, is known for its futuristic skyline and luxury shopping. Its capital Doha boasts cultural attractions like the Museum of Islamic Art and the Souq Waqif market. Visitors can enjoy the stunning architecture of the Katara Cultural Village, desert safaris, and beautiful beaches along the Corniche. For a taste of traditional Qatari life, explore the historic Al Zubarah Fort and the UNESCO World Heritage site of Al Zubarah. Qatar is also home to the unique artificial island, The Pearl-Qatar, offering upscale dining and shopping experiences.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Réunion": {
+    "réunion": {
         "bio": "Réunion is a beautiful island located in the Indian Ocean, known for its stunning landscapes that include volcanoes, lush rainforests, and coral reefs. The island offers a mix of French and Creole cultures, evident in its cuisine and architecture. Tourists can explore the active Piton de la Fournaise volcano, hike through the rugged terrain of Cirque de Mafate, or relax on the sandy beaches of Saint-Gilles-les-Bains. Réunion is also a popular destination for water sports enthusiasts, with opportunities for snorkeling, diving, and surfing.",
         "climate": [
             "hot",
@@ -1368,7 +1368,7 @@
         ],
         "cost": 2
     },
-    "Romania": {
+    "romania": {
         "bio": "Romania is a beautiful country located in Eastern Europe, known for its stunning landscapes, medieval castles, and vibrant culture. Visitors can explore the famous Transylvania region, home to the legendary Dracula's Castle and picturesque villages like Sibiu and Brasov. The capital city, Bucharest, offers a mix of architecture ranging from medieval to modern, while the rural areas showcase traditional Romanian life and customs. Don't miss the painted monasteries of Bucovina, the natural wonder of the Danube Delta, and the stunning Carpathian Mountains. Romania also boasts a rich history and welcoming locals.",
         "climate": [
             "hot",
@@ -1376,21 +1376,21 @@
         ],
         "cost": 1
     },
-    "Russian Federation": {
+    "russian federation": {
         "bio": "The Russian Federation, the largest country in the world, offers a rich tapestry of history, culture, and natural beauty. From the iconic Red Square and Kremlin in Moscow to the stunning palaces of St. Petersburg, visitors can immerse themselves in centuries of art and architecture. The country is also home to breathtaking landscapes, including the rugged mountains of the Caucasus and the vast Siberian wilderness. Don't miss the Trans-Siberian Railway for a truly epic train journey across this vast nation.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Rwanda": {
+    "rwanda": {
         "bio": "Rwanda, known as 'The Land of a Thousand Hills', is a stunning East African country offering breathtaking landscapes and unique wildlife experiences. Visitors can explore the lush national parks to see mountain gorillas, golden monkeys, and diverse bird species. The capital city, Kigali, showcases a mix of modern and traditional culture, with vibrant markets and museums detailing the country's history. Rwanda also has a tragic past with the 1994 genocide, but has since made remarkable progress towards reconciliation and development. It is a country with a rich cultural heritage and friendly people.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Saudi Arabia": {
+    "saudi arabia": {
         "bio": "Saudi Arabia is a desert country known for its rich history and vibrant culture. From the bustling city of Riyadh to the ancient city of Jeddah, there is much to explore. Popular tourist destinations include the stunning rock formations of Madain Saleh, the Red Sea coastline for diving and snorkeling, and the modern city of Mecca for its religious significance. Visitors can also experience the traditional Bedouin culture by taking a desert safari. Saudi Arabia is home to beautiful mosques, historic sites, and luxurious shopping malls.",
         "climate": [
             "hot",
@@ -1398,21 +1398,21 @@
         ],
         "cost": 2
     },
-    "Sudan": {
+    "sudan": {
         "bio": "Sudan is a diverse country located in North Africa, known for its ancient archaeological sites, vibrant culture, and warm hospitality. Visitors can explore historical wonders such as the pyramids of Meroe and the temples of Soleb. The bustling markets of Khartoum offer a unique shopping experience, while the Red Sea coast provides opportunities for diving and snorkeling. Sudan also boasts beautiful natural landscapes, including the Nubian Desert and the lush greenery along the Nile River. Traditional Sudanese cuisine, music, and traditional ceremonies offer a glimpse into the rich heritage of this intriguing destination.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Senegal": {
+    "senegal": {
         "bio": "Senegal is a vibrant West African country known for its rich history, diverse culture, and stunning natural beauty. Visitors can explore bustling markets in Dakar, relax on the beautiful beaches of Cap Skirring, and visit historic sites like Goree Island, a UNESCO World Heritage site. The country is also famous for its music and dance traditions, including the popular Sabar drumming. Wildlife enthusiasts can spot diverse species in national parks like Niokolo-Koba. Don't miss trying the delicious Senegalese cuisine, such as thieboudienne, the national dish.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Singapore": {
+    "singapore": {
         "bio": "Singapore is a bustling city-state known for its modern skyscrapers, cutting-edge technology, and rich cultural heritage. Must-visit tourist destinations include the iconic Marina Bay Sands with its stunning rooftop infinity pool, the vibrant neighborhoods of Chinatown and Little India, and the lush Gardens by the Bay. Singapore is a melting pot of diverse cultures, offering visitors a unique mix of cuisines, traditions, and languages. Don't miss the famous hawker centers to sample local delicacies. One interesting fact is that Singapore is one of the safest and cleanest cities in the world.",
         "climate": [
             "hot",
@@ -1420,26 +1420,26 @@
         ],
         "cost": 3
     },
-    "South Georgia and the South Sandwich Islands": {
+    "south georgia and the south sandwich islands": {
         "bio": "South Georgia and the South Sandwich Islands is a remote British Overseas Territory in the southern Atlantic Ocean. Known for its rugged beauty, dramatic landscapes, and abundant wildlife, this destination is a paradise for nature enthusiasts and wildlife photographers. Visitors can explore historic whaling stations, watch mesmerizing displays of penguins and seals, and hike through stunning glacier-covered mountains. The islands are also steeped in history, with connections to famous explorers like Sir Ernest Shackleton. Despite its isolation, South Georgia and the South Sandwich Islands offer a truly unforgettable experience for those seeking adventure and unique wildlife encounters.",
         "climate": [],
         "cost": 2
     },
-    "Saint Helena, Ascension and Tristan da Cunha": {
+    "saint helena, ascension and tristan da cunha": {
         "bio": "Saint Helena, Ascension and Tristan da Cunha is a group of volcanic islands located in the South Atlantic Ocean. Saint Helena is known for its rich history as a former British colony, with attractions such as Napoleon's exile site and Jacob's Ladder, a steep staircase offering breathtaking views. Ascension Island boasts diverse wildlife and pristine beaches, perfect for outdoor enthusiasts. Tristan da Cunha is one of the world's most remote inhabited islands, offering a unique opportunity to disconnect from the modern world and immerse in nature. Visitors can also enjoy hiking, fishing, and bird watching.",
         "climate": [
             "mild"
         ],
         "cost": 2
     },
-    "Svalbard and Jan Mayen": {
+    "svalbard and jan mayen": {
         "bio": "Svalbard and Jan Mayen is a remote Arctic wilderness in Norway. It is known for its stunning glaciers, majestic fjords, and unique wildlife, including polar bears and reindeer. One of the most popular destinations is the town of Longyearbyen, the northernmost settlement in the world, where visitors can experience the Northern Lights and go dog sledding. Svalbard also offers opportunities for hiking, snowmobiling, and boat tours. Jan Mayen, a volcanic island, is home to the mysterious Beerenberg volcano and is a haven for birdwatchers. The islands are also steeped in history, with remnants of whaling stations and mining operations.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Solomon Islands": {
+    "solomon islands": {
         "bio": "The Solomon Islands is an archipelago in the South Pacific known for its pristine coral reefs, lush rainforests, and WWII relics. Popular tourist activities include diving, snorkeling, and exploring traditional villages. Honiara, the capital city, offers a blend of Melanesian culture and modern amenities. Visit the Guadalcanal American Memorial commemorating the Battle of Guadalcanal. The islands are also home to unique wildlife such as the endangered dugong and the Solomon sea eagle. Experience local traditions with cultural performances and handicraft markets. Discover remote beaches, hiking trails, and waterfalls in this hidden paradise.",
         "climate": [
             "hot",
@@ -1447,52 +1447,52 @@
         ],
         "cost": 2
     },
-    "Sierra Leone": {
+    "sierra leone": {
         "bio": "Sierra Leone is a West African country known for its stunning beaches, vibrant culture, and rich history. Tourists can explore the beautiful Freetown Peninsula with its white sandy beaches and lush rainforests, or visit the Tacugama Chimpanzee Sanctuary to see rescued chimpanzees up close. The country is also home to historic sites like Bunce Island, a former slave trading post. Sierra Leone offers a unique blend of cultural experiences, outdoor adventures, and wildlife encounters for travelers to enjoy.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "El Salvador": {
+    "el salvador": {
         "bio": "El Salvador, the smallest country in Central America, is known for its stunning landscapes, beautiful beaches, and vibrant culture. Tourists can explore the charming colonial towns, hike on volcanoes, and relax on the Pacific coast. El Salvador is also rich in history, with archaeological sites like Joya de Ceren and Tazumal offering insights into its ancient past. The country is famous for its colorful festivals, delicious cuisine, and warm hospitality. Don't miss the chance to surf in El Salvador, considered one of the best surfing destinations in the world.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "San Marino": {
+    "san marino": {
         "bio": "San Marino is a tiny independent country surrounded by Italy. It is known for its medieval architecture, including the UNESCO-listed City of San Marino. Visitors can explore ancient castles and fortresses, and enjoy stunning views of the surrounding countryside. The country boasts a rich history and vibrant culture, with festivals and events year-round. Popular attractions include the Three Towers of San Marino, Piazza della Libertà, and the Basilica di San Marino. San Marino is a great destination for history buffs, architecture lovers, and anyone seeking a unique travel experience.",
         "climate": [],
         "cost": 2
     },
-    "Somalia": {
+    "somalia": {
         "bio": "Somalia, located in the Horn of Africa, is known for its stunning beaches along the Indian Ocean and a rich cultural heritage. With a history dating back to ancient times, Somalia offers unique experiences for travelers interested in exploring diverse landscapes, from sandy coastlines to arid plains. Tourism highlights include the historic port city of Mogadishu, the ancient city of Zeila, and the beautiful islands of the Bajuni Archipelago. Visitors can also enjoy traditional Somali cuisine and vibrant markets. Despite past conflicts, efforts are being made to revive the tourism industry in this beautiful country.",
         "climate": [
             "hot"
         ],
         "cost": 1
     },
-    "Saint Pierre and Miquelon": {
+    "saint pierre and miquelon": {
         "bio": "Saint Pierre and Miquelon is a unique overseas territory of France located off the coast of Newfoundland, Canada. The islands are known for their French culture, cuisine, and quaint fishing villages. Visitors can explore the historic port town of Saint Pierre with its colorful houses and cobblestone streets. Outdoor enthusiasts can enjoy activities like hiking, fishing, and birdwatching in the pristine natural surroundings. Interesting tourist destinations include the Pointe aux Canons lighthouse and the Heritage Museum. Fun fact: the islands use the Euro as their currency despite being located in North America.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Serbia": {
+    "serbia": {
         "bio": "Serbia, located in Southeast Europe, is known for its rich history, beautiful architecture, and vibrant culture. Visitors can explore the historic city of Belgrade, known for its lively nightlife and ancient fortresses. The country is also famous for its delicious food, such as cevapi and rakija. Nature lovers can visit the stunning Djerdap National Park or enjoy the picturesque landscapes of Tara National Park. Serbia is a country with a passionate and welcoming people, ready to share their love for music, traditional dances, and festivals.",
         "climate": [],
         "cost": 1
     },
-    "South Sudan": {
+    "south sudan": {
         "bio": "South Sudan, the youngest country in the world, offers unique cultural experiences with its diverse ethnic groups and traditional practices. Visitors can explore its vast landscapes teeming with wildlife, including the majestic elephants and giraffes in the national parks. Relax by the stunning waters of the White Nile and witness the local craftsmanship at vibrant markets. South Sudan also holds historical significance with ancient ruins and archaeological sites to unravel its past. Despite its challenges, the welcoming locals and untamed beauty make it an adventurous destination for intrepid travelers.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Sao Tome and Principe": {
+    "sao tome and principe": {
         "bio": "Sao Tome and Principe is a picturesque island nation off the coast of Central Africa known for its stunning tropical landscapes, pristine beaches, and rich biodiversity. The country offers unique opportunities for eco-tourism, with lush rainforests, diverse wildlife, and volcanic peaks to explore. Visitors can enjoy activities such as hiking, bird watching, and diving, or simply relax in the sun on secluded beaches. Don't miss the chance to sample the local cocoa and coffee, which are major exports for the country. Sao Tome and Principe's colonial architecture and friendly people add to its charm.",
         "climate": [
             "hot",
@@ -1500,7 +1500,7 @@
         ],
         "cost": 2
     },
-    "Suriname": {
+    "suriname": {
         "bio": "Suriname, located on the northeastern coast of South America, is a hidden gem with a rich cultural heritage influenced by Dutch, African, and Indigenous traditions. The capital city, Paramaribo, is a UNESCO World Heritage site known for its historic wooden buildings. Nature enthusiasts will appreciate the vast rainforests and diverse wildlife, including jaguars and colorful birds. Tourists can visit Brownsberg Nature Park for stunning views of the rainforest or take a boat tour on the Suriname River to spot dolphins. Suriname is also famous for its diverse cuisine and vibrant local markets.",
         "climate": [
             "hot",
@@ -1508,12 +1508,12 @@
         ],
         "cost": 2
     },
-    "Slovakia": {
+    "slovakia": {
         "bio": "Slovakia, a landlocked country in Central Europe, is known for its stunning landscapes, historic castles, and vibrant culture. Visitors can explore the charming capital city of Bratislava, with its old town and iconic Bratislava Castle. Nature lovers will enjoy the High Tatra mountains, home to picturesque hiking trails and ski resorts. Don't miss the UNESCO-listed town of Banska Stiavnica, known for its medieval architecture. Slovakia also boasts a rich folk music and dance tradition, with festivals held throughout the year.",
         "climate": [],
         "cost": 2
     },
-    "Slovenia": {
+    "slovenia": {
         "bio": "Slovenia is a small but diverse country in Central Europe known for its breathtaking natural landscapes, including the picturesque Lake Bled and the stunning Julian Alps. Visitors can explore charming medieval towns such as Ljubljana, the capital city, and marvel at the beautiful architecture and rich history. Outdoor enthusiasts will love the opportunities for hiking, skiing, and rafting in Slovenia's many national parks. The country also boasts a thriving culinary scene, with delicious local dishes and wines to enjoy. Slovenia is a hidden gem waiting to be discovered by adventurous travelers.",
         "climate": [
             "hot",
@@ -1521,21 +1521,21 @@
         ],
         "cost": 2
     },
-    "Sweden": {
+    "sweden": {
         "bio": "Sweden is a picturesque country known for its stunning natural beauty, including vast forests, countless lakes, and a unique archipelago. Visitors can explore vibrant cities like Stockholm and Gothenburg, while also enjoying outdoor activities such as hiking, skiing, and camping. Must-see attractions include the historic Gamla Stan in Stockholm, the northern lights in Lapland, and the iconic Icehotel in Jukkasjärvi. Sweden is also renowned for its design and innovation, as well as its delicious cuisine featuring Swedish meatballs and traditional fika. Don't miss the chance to experience the Swedish sauna culture and the charming Midsummer celebrations.",
         "climate": [
             "cold"
         ],
         "cost": 2
     },
-    "Eswatini": {
+    "eswatini": {
         "bio": "Eswatini, also known as Swaziland, is a small landlocked country in Southern Africa. It is known for its stunning landscapes, diverse wildlife, and vibrant culture. Tourists can visit traditional markets, explore national parks like Hlane Royal National Park and Mlilwane Wildlife Sanctuary, and attend cultural events such as the Umhlanga Reed Dance. Eswatini is famous for its traditional handicrafts, particularly intricate textiles and wood carvings. The country's rich history and royal heritage are also major attractions for visitors.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Sint Maarten (Dutch part)": {
+    "sint maarten (dutch part)": {
         "bio": "Sint Maarten is a picturesque island country in the Caribbean known for its stunning beaches, crystal-clear waters, and vibrant nightlife. Visitors can explore the Dutch side of the island, which offers duty-free shopping and upscale dining experiences. The French side of the island, Saint Martin, boasts charming seaside villages and delicious cuisine influenced by its European heritage. Tourists can enjoy water sports, such as snorkeling and sailing, or relax on one of the island's many beautiful beaches. Don't miss the chance to witness the stunning views from the top of Mount Concordia.",
         "climate": [
             "hot",
@@ -1543,7 +1543,7 @@
         ],
         "cost": 2
     },
-    "Seychelles": {
+    "seychelles": {
         "bio": "Seychelles is an archipelago of 115 islands in the Indian Ocean known for its stunning beaches, crystal-clear waters, and lush landscapes. It offers a perfect getaway for relaxation and water activities like snorkeling and diving. Mahe, Praslin, and La Digue are popular islands with beautiful beaches such as Anse Source d'Argent and Anse Lazio. The country boasts unique wildlife, including giant tortoises and rare bird species. Victoria, the capital, features vibrant markets and cultural sites like the Victoria Clock Tower. Seychelles is a paradise for luxury travelers seeking a secluded and tropical retreat.",
         "climate": [
             "hot",
@@ -1551,21 +1551,21 @@
         ],
         "cost": 3
     },
-    "Syrian Arab Republic": {
+    "syrian arab republic": {
         "bio": "Syria, officially known as the Syrian Arab Republic, is a country in the Middle East with a rich history dating back to ancient times. It is home to stunning archaeological sites such as Palmyra and Aleppo, as well as bustling markets in cities like Damascus. Visitors can explore the majestic ruins of ancient civilizations, sample delicious Middle Eastern cuisine, and experience the warm hospitality of the Syrian people. Despite recent conflicts, Syria's cultural heritage remains a major draw for tourists.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Turks and Caicos Islands": {
+    "turks and caicos islands": {
         "bio": "The Turks and Caicos Islands are a British Overseas Territory known for their stunning white-sand beaches and crystal-clear turquoise waters. The islands are a popular destination for luxury travelers, with upscale resorts and world-class diving opportunities. Grace Bay Beach on Providenciales is one of the most famous beaches in the world, while Chalk Sound National Park offers a unique landscape of turquoise waters and limestone islands. Visitors can also explore historic sites like Cheshire Hall Plantation and experience local culture at the weekly fish fry. The islands are a paradise for beach lovers and water sports enthusiasts.",
         "climate": [
             "hot"
         ],
         "cost": 3
     },
-    "Chad": {
+    "chad": {
         "bio": "Chad is a landlocked country in north-central Africa known for its diverse landscapes, including the Sahara desert, lakes, and the fertile Soudan savanna. Visitors can explore Zakouma National Park for incredible wildlife viewing, including elephants and lions, or experience the ancient rock art at the Ennedi Plateau. The capital city, N'Djamena, offers bustling markets and cultural experiences. Chad is also home to the unique Gerewol festival showcasing traditional dance and beauty contests. With its rich history and natural beauty, Chad is a fascinating destination for adventurous travelers.",
         "climate": [
             "hot",
@@ -1573,7 +1573,7 @@
         ],
         "cost": 1
     },
-    "Togo": {
+    "togo": {
         "bio": "Located in West Africa, Togo is known for its vibrant culture, colorful markets, and beautiful landscapes. Visitors can explore the bustling markets of Lomé, relax on the pristine beaches of Lake Togo, and hike through the lush forests of Fazao-Malfakassa National Park. Togo is also home to the fascinating Akodessewa Fetish Market, known for its traditional voodoo charms and artifacts. Don't miss the annual Evala wrestling festival, a unique cultural event. Togo offers a mix of traditional and modern experiences for travelers looking to immerse themselves in the rich culture of West Africa.",
         "climate": [
             "hot",
@@ -1581,7 +1581,7 @@
         ],
         "cost": 1
     },
-    "Thailand": {
+    "thailand": {
         "bio": "Thailand, known as the 'Land of Smiles,' is a popular travel destination in Southeast Asia. It offers a mix of vibrant cities, lush jungles, and stunning beaches. Visitors can explore bustling markets in Bangkok, relax on the beautiful islands of Phuket and Koh Samui, and admire ancient temples such as Wat Arun and Wat Pho. Thailand is also famous for its delicious cuisine, with dishes like pad Thai and green curry. Don't miss the opportunity to interact with elephants at ethical sanctuaries. Enjoy traditional Thai massage and experience the lively nightlife in cities like Chiang Mai.",
         "climate": [
             "hot",
@@ -1589,14 +1589,14 @@
         ],
         "cost": 2
     },
-    "Tajikistan": {
+    "tajikistan": {
         "bio": "Tajikistan, located in Central Asia, is known for its stunning landscapes of mountains, valleys, and lakes. The Pamir Mountains offer some of the best trekking opportunities in the region, while the capital city of Dushanbe showcases a blend of Soviet-era and Islamic architecture. One must-see destination is the ancient city of Khujand, with its history dating back over 2,500 years. Tajikistan is also home to the beautiful Iskanderkul Lake, perfect for hiking and picnicking.",
         "climate": [
             "cold"
         ],
         "cost": 1
     },
-    "Tokelau": {
+    "tokelau": {
         "bio": "Tokelau is a remote group of atolls in the South Pacific Ocean, known for its pristine coral reefs and unspoiled natural beauty. With a total land area of just 10 square kilometers, it is one of the smallest countries in the world. The laid-back lifestyle of the locals and traditional Polynesian culture are major attractions for visitors. Must-visit destinations include Fale Village on Fakaofo Atoll, the beautiful coral gardens of Nukunonu Atoll, and exploring the traditional handicrafts of the islands. Tokelau is a paradise for nature lovers and those seeking a peaceful escape from the modern world.",
         "climate": [
             "hot",
@@ -1604,7 +1604,7 @@
         ],
         "cost": 2
     },
-    "Turkmenistan": {
+    "turkmenistan": {
         "bio": "Turkmenistan, located in Central Asia, is known for its vast deserts, ancient Silk Road cities, and unique architecture. The capital, Ashgabat, is famous for its grand marble buildings and monuments. Tourists can visit the ancient city of Merv, a UNESCO World Heritage Site, and the fiery Darvaza Gas Crater, known as the 'Door to Hell'. Turkmenistan is also home to the stunning Karakum Desert and the tranquil Caspian Sea coast. Visitors can experience the country's rich culture through traditional music, dance, and cuisine.",
         "climate": [
             "hot",
@@ -1612,7 +1612,7 @@
         ],
         "cost": 2
     },
-    "Timor-Leste": {
+    "timor-leste": {
         "bio": "Timor-Leste, also known as East Timor, is a Southeast Asian nation occupying half the island of Timor. It's known for its beaches, reefs, and mountainous terrain. Dili, the capital, is the hub for beaches such as Areia Branca and Crystal Beach. The Cristo Rei of Dili statue sits on a hill with panoramic views of the city. In the eastern mountains, Maubisse and Dare offer hiking opportunities. The island nation also boasts rich cultural heritage, with traditional beliefs and rituals still practiced in many villages.",
         "climate": [
             "hot",
@@ -1620,7 +1620,7 @@
         ],
         "cost": 2
     },
-    "Tonga": {
+    "tonga": {
         "bio": "Tonga, located in the South Pacific, is known for its pristine beaches, crystal-clear waters, and vibrant coral reefs. This Polynesian kingdom offers unique cultural experiences, such as traditional dance performances and feasting ceremonies. A must-visit in Tonga is the Ha'amonga 'a Maui Trilithon, an ancient stone structure shrouded in mystery. You can also swim with humpback whales during the migration season. Tonga is a great destination for adventure seekers, with opportunities for snorkeling, diving, and hiking. Don't miss exploring the picturesque islands of Vava'u and 'Eua.",
         "climate": [
             "hot",
@@ -1628,7 +1628,7 @@
         ],
         "cost": 2
     },
-    "Trinidad and Tobago": {
+    "trinidad and tobago": {
         "bio": "Trinidad and Tobago is a dual-island Caribbean nation known for its vibrant culture, stunning beaches, and diverse wildlife. Visitors can explore the cosmopolitan capital of Port of Spain, attend the famous Carnival celebration, and visit the serene Asa Wright Nature Centre for birdwatching. The islands also offer opportunities for hiking in the lush rainforests of the Northern Range and relaxing on pristine white sand beaches. Trinidad and Tobago is famous for its music scene, including calypso and soca music, and delicious cuisine influenced by African, Indian, and Creole flavors.",
         "climate": [
             "hot",
@@ -1636,7 +1636,7 @@
         ],
         "cost": 2
     },
-    "Tunisia": {
+    "tunisia": {
         "bio": "Tunisia, located in North Africa, offers a unique mix of history, culture, and natural beauty. Tourists can explore ancient ruins such as Carthage and El Djem, relax on beautiful Mediterranean beaches, and wander through vibrant markets in cities like Tunis. The country is also known for its delicious cuisine, with dishes like couscous and brik being popular choices. Tunisia has a rich history with influences from Berber, Arab, and European civilizations. Outdoor enthusiasts can enjoy activities such as desert trekking and camel riding in the Sahara Desert.",
         "climate": [
             "hot",
@@ -1644,7 +1644,7 @@
         ],
         "cost": 2
     },
-    "Türkiye": {
+    "türkiye": {
         "bio": "Türkiye, also known as Turkey, is a country that bridges Eastern Europe and Western Asia. It has a rich history dating back to ancient times, with stunning architecture, vibrant bazaars, and delicious cuisine. Tourists flock to iconic landmarks such as Hagia Sophia, Cappadocia's fairy chimneys, and the ancient city of Ephesus. Turkey offers a diverse range of experiences, from relaxing on beautiful beaches along the Mediterranean coast to exploring bustling cities like Istanbul. Don't miss the chance to taste traditional dishes like kebabs and baklava.",
         "climate": [
             "hot",
@@ -1652,7 +1652,7 @@
         ],
         "cost": 2
     },
-    "Tuvalu": {
+    "tuvalu": {
         "bio": "Tuvalu is a small island country in the Pacific Ocean, known for its stunning tropical landscapes and vibrant marine life. Visitors can enjoy exploring the pristine beaches, coral reefs, and traditional villages. Funafuti is the capital and a great base for diving and snorkeling adventures. Tuvalu is one of the least visited countries in the world, offering a unique and off-the-beaten-path travel experience. The country is also at risk of being affected by rising sea levels due to climate change, adding a sense of urgency to visit this beautiful destination.",
         "climate": [
             "hot",
@@ -1660,7 +1660,7 @@
         ],
         "cost": 2
     },
-    "Taiwan, Province of China": {
+    "taiwan, province of china": {
         "bio": "Taiwan, Province of China, is a vibrant island nation known for its bustling night markets, stunning natural landscapes, and rich cultural heritage. Tourists flock to Taipei, the capital city, to explore iconic sights like Taipei 101 and night markets offering delicious street food. Taroko National Park is a must-visit destination, with its marble cliffs, lush forests, and hiking trails. Taiwan also boasts unique attractions such as the Shifen Old Street and Sun Moon Lake. Visitors can immerse themselves in Taiwanese history and culture by visiting temples, museums, and traditional festivals.",
         "climate": [
             "hot",
@@ -1668,21 +1668,21 @@
         ],
         "cost": 2
     },
-    "Tanzania, United Republic of": {
+    "tanzania, united republic of": {
         "bio": "Tanzania, United Republic of is a diverse East African country known for its stunning landscapes. From Mount Kilimanjaro, Africa's highest peak, to the Serengeti National Park, famous for its wildlife and annual migration of zebras and wildebeest, Tanzania offers a unique safari experience. The tropical island of Zanzibar is a popular destination with its beautiful beaches and rich history. Don't miss visiting the Ngorongoro Crater, a Unesco World Heritage Site and home to a high concentration of wildlife. Tanzania also has a vibrant culture with over 120 ethnic groups and Swahili being the official language.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Uganda": {
+    "uganda": {
         "bio": "Uganda, known as the 'Pearl of Africa', offers diverse landscapes ranging from lush forests to savannahs and the stunning Lake Victoria. It is famous for its mountain gorilla trekking in Bwindi Impenetrable National Park, and safaris in Queen Elizabeth National Park to see lions, elephants, and hippos. The vibrant capital city, Kampala, provides a mix of urban culture and traditional markets. Don't miss the opportunity to explore the source of the Nile River at Jinja. Uganda is also known for its friendly people and rich cultural heritage, with over 50 different tribes.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Ukraine": {
+    "ukraine": {
         "bio": "Ukraine is a diverse country in Eastern Europe known for its rich history, stunning architecture, and vibrant cultural scene. Tourists can visit the historic city of Kiev with its beautiful churches and monasteries, explore the picturesque Carpathian Mountains for outdoor adventures, or relax on the sandy beaches of the Black Sea coast. Must-see attractions include the iconic St. Sophia's Cathedral, the historic city of Lviv, and the eerie Chernobyl Exclusion Zone. Ukraine is also famous for its delicious cuisine, featuring hearty dishes like borscht and varenyky. Visitors can experience warm Ukrainian hospitality and immerse themselves in the country's fascinating folklore and traditions.",
         "climate": [
             "cold",
@@ -1690,24 +1690,24 @@
         ],
         "cost": 1
     },
-    "United States Minor Outlying Islands": {
+    "united states minor outlying islands": {
         "bio": "The United States Minor Outlying Islands are a collection of nine islands in the Pacific Ocean and the Caribbean Sea. These remote and uninhabited islands offer pristine natural beauty and are a haven for wildlife enthusiasts and birdwatchers. Some of the islands, like Johnston Atoll and Baker Island, are important wildlife refuges. Visitors can enjoy activities like snorkeling, bird watching, and exploring the untouched landscapes. The islands also have a rich military history, with remnants of World War II bunkers and installations still visible on some of the islands.",
         "climate": [],
         "cost": 1
     },
-    "Uruguay": {
+    "uruguay": {
         "bio": "Uruguay, a small South American country nestled between Brazil and Argentina, is known for its vibrant culture and beautiful landscapes. Visitors can explore the historic capital of Montevideo, with its charming old town and bustling markets. The country is also famous for its pristine beaches along the Atlantic coast, such as Punta del Este and Jose Ignacio, popular among surfers and sunbathers. Uruguay is rich in gaucho culture, with traditional estancias offering a glimpse into rural life. Wine enthusiasts can indulge in the local tannat varietal, while foodies can savor delicious grilled meats at local parillas.",
         "climate": [
             "mild"
         ],
         "cost": 2
     },
-    "United States": {
+    "united states": {
         "bio": "The United States is known for its diverse landscapes, vibrant culture, and iconic landmarks like the Grand Canyon, Statue of Liberty, and Golden Gate Bridge. Visitors can explore bustling cities like New York and Los Angeles, relax on the beaches of Hawaii, or experience the natural beauty of national parks such as Yellowstone and Yosemite. The country is also home to a rich history, with sites like the White House and Independence Hall offering insight into its past. Food enthusiasts will enjoy the diverse culinary scene, from Southern barbecue to New England seafood.",
         "climate": [],
         "cost": 2
     },
-    "Uzbekistan": {
+    "uzbekistan": {
         "bio": "Uzbekistan, located in Central Asia, is known for its rich history along the ancient Silk Road. The country boasts stunning Islamic architecture, bustling bazaars, and a welcoming culture. Must-visit destinations include the historic city of Samarkand with its iconic Registan Square, the ancient city of Bukhara, and the walled city of Khiva. Uzbekistan is also home to beautiful landscapes such as the Kyzylkum Desert and the Chimgan Mountains. Don't miss trying traditional Uzbek cuisine like pilaf and samsa. With a fascinating blend of history and culture, Uzbekistan offers an unforgettable travel experience.",
         "climate": [
             "hot",
@@ -1715,19 +1715,19 @@
         ],
         "cost": 2
     },
-    "Holy See (Vatican City State)": {
+    "holy see (vatican city state)": {
         "bio": "Vatican City, the world's smallest independent state, is the spiritual and administrative center of the Roman Catholic Church. Filled with rich history, impressive art, and iconic landmarks like St. Peter's Basilica and the Sistine Chapel, it's a must-visit destination for religious and art enthusiasts alike. Despite its small size, Vatican City offers a unique experience with its stunning architecture, museums, and the opportunity to see works by Michelangelo and other renowned artists. Don't miss the chance to explore this culturally significant and awe-inspiring destination.",
         "climate": null,
         "cost": 2
     },
-    "Saint Vincent and the Grenadines": {
+    "saint vincent and the grenadines": {
         "bio": "Saint Vincent and the Grenadines is a stunning Caribbean nation known for its crystal-clear waters, beautiful beaches, and lush mountains. Visitors can explore the idyllic Tobago Cays Marine Park, enjoy diving and snorkeling in the vibrant coral reefs, or hike through the tropical rainforests. The country also boasts a rich cultural heritage, with lively festivals, traditional music, and cuisine influenced by African, Indian, and European traditions. Bequia, Mustique, and Union Island are popular destinations offering luxury resorts and exclusive hideaways. Adventure seekers can sail around the Grenadines on a chartered yacht for a truly unique experience.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Venezuela, Bolivarian Republic of": {
+    "venezuela, bolivarian republic of": {
         "bio": "Venezuela, officially known as the Bolivarian Republic of Venezuela, is a country located on the northern coast of South America. It is known for its stunning natural landscapes, including the Andes Mountains, the Amazon rainforest, and the beautiful Caribbean coastline. Tourists can explore the historic capital city of Caracas, visit the famous Angel Falls, the highest waterfall in the world, and relax on the pristine beaches of Isla Margarita. Venezuela is also home to a rich cultural heritage, with a vibrant music and arts scene. Be sure to try traditional dishes like arepas and cachapas.",
         "climate": [
             "hot",
@@ -1735,7 +1735,7 @@
         ],
         "cost": 2
     },
-    "Virgin Islands, British": {
+    "virgin islands, british": {
         "bio": "The British Virgin Islands are a tropical paradise known for their picture-perfect beaches and crystal-clear waters. The islands offer a perfect blend of relaxation and adventure, with opportunities for sailing, snorkeling, and hiking. Visit the famous Baths on Virgin Gorda to explore unique rock formations, or sail to the secluded beaches of Anegada. The islands also have a rich history, with remnants of ancient Arawak settlements and colonial plantations to explore. Don't miss the lively beach bars and delicious seafood cuisine that make the British Virgin Islands a memorable destination.",
         "climate": [
             "hot",
@@ -1743,7 +1743,7 @@
         ],
         "cost": 3
     },
-    "Virgin Islands, U.S.": {
+    "virgin islands, u.s.": {
         "bio": "The U.S. Virgin Islands are a group of Caribbean islands known for their stunning beaches, crystal-clear waters, and rich history. St. Thomas is a popular cruise ship destination with duty-free shopping and vibrant nightlife, while St. John is famous for its pristine national park and hiking trails. For a more relaxed atmosphere, visitors can enjoy the secluded beauty of the island of St. Croix. The islands also offer opportunities for snorkeling, diving, and water sports. Learn about the islands' colonial past at historic sites such as Fort Christian and Blackbeard's Castle.",
         "climate": [
             "hot",
@@ -1751,7 +1751,7 @@
         ],
         "cost": 2
     },
-    "Viet Nam": {
+    "viet nam": {
         "bio": "Vietnam is a Southeast Asian country known for its bustling cities, stunning landscapes, and rich history. Explore the chaotic streets of Hanoi and Ho Chi Minh City, visit the ancient temples of Hoi An, or cruise through the limestone karsts of Halong Bay. Discover the vibrant culture through traditional foods like pho and banh mi, and learn about the country's complex past at sites like the Cu Chi Tunnels. Vietnam also offers opportunities for outdoor adventures, including trekking in Sapa and relaxing on beautiful beaches like Phu Quoc.",
         "climate": [
             "hot",
@@ -1759,7 +1759,7 @@
         ],
         "cost": 2
     },
-    "Vanuatu": {
+    "vanuatu": {
         "bio": "Vanuatu is a South Pacific island nation known for its stunning landscapes, from white sandy beaches to lush rainforests and active volcanoes. It offers excellent opportunities for diving, snorkeling, and hiking. Visitors can explore cultural villages, attend traditional ceremonies, and shop for local arts and crafts. Must-see attractions include the underwater post office at Hideaway Island, the cascading waterfalls of Mele, and the iconic Millennium Cave. Vanuatu also boasts a unique blend of Melanesian, French, British, and Pacific cultures. Don't miss the chance to taste kava, a traditional drink made from the root of the pepper plant.",
         "climate": [
             "hot",
@@ -1767,14 +1767,14 @@
         ],
         "cost": 2
     },
-    "Wallis and Futuna": {
+    "wallis and futuna": {
         "bio": "Wallis and Futuna is a French overseas collectivity located in the South Pacific Ocean. The islands feature a unique blend of French and Polynesian cultures, offering visitors a fascinating cultural experience. Tourists can explore lush landscapes, pristine beaches, and vibrant coral reefs, making it a paradise for nature lovers and water sports enthusiasts. Highlights include Mata-Utu, the capital of Wallis and Futuna, with its charming churches and traditional markets. The islands also boast a rich history, including ancient archaeological sites and traditional dance performances.",
         "climate": [
             "humid"
         ],
         "cost": 2
     },
-    "Samoa": {
+    "samoa": {
         "bio": "Samoa, a Polynesian paradise in the South Pacific, is known for its stunning natural beauty and rich cultural heritage. Visitors can explore lush rainforests, pristine beaches, and vibrant coral reefs. The traditional fa'a Samoa way of life is evident in the local customs, arts, and dances. Must-see attractions include the To Sua Ocean Trench, Piula Cave Pool, and Lalomanu Beach. Samoa is also famous for its fiery traditional dance called the Siva Afi. Visitors can immerse themselves in the warm hospitality of the Samoan people while enjoying the breathtaking landscapes this island nation has to offer.",
         "climate": [
             "hot",
@@ -1782,7 +1782,7 @@
         ],
         "cost": 2
     },
-    "Yemen": {
+    "yemen": {
         "bio": "Yemen, located in the Arabian Peninsula, offers visitors a rich cultural experience with its unique blend of history and traditions. The country is known for its ancient architecture, such as the UNESCO World Heritage Site of Old Sana'a with its distinctive tower houses. Tourists can explore the stunning landscapes of Yemen, from the dramatic mountains of Haraz to the beautiful beaches along the Red Sea. Yemen is also famous for its traditional markets, where visitors can shop for local crafts and spices. Don't miss trying the delicious Yemeni cuisine, especially the aromatic coffee.",
         "climate": [
             "hot",
@@ -1790,7 +1790,7 @@
         ],
         "cost": 2
     },
-    "South Africa": {
+    "south africa": {
         "bio": "South Africa is a diverse country known for its stunning landscapes, wildlife, and rich culture. Travelers can explore the vibrant cities of Cape Town and Johannesburg, go on a safari in Kruger National Park, visit the historic Robben Island, and enjoy the beautiful beaches along the Garden Route. South Africa is also home to the iconic Table Mountain, the majestic Drakensberg Mountains, and the picturesque Winelands. With 11 official languages and a mix of cultures, visitors can experience a melting pot of traditions and cuisines.",
         "climate": [
             "hot",
@@ -1798,14 +1798,14 @@
         ],
         "cost": 2
     },
-    "Zambia": {
+    "zambia": {
         "bio": "Zambia is a landlocked country in southern Africa known for its stunning natural beauty and diverse wildlife. Home to the mighty Victoria Falls, one of the largest waterfalls in the world, Zambia is a paradise for nature lovers and adventure seekers. The country is famous for its national parks, such as South Luangwa and Kafue, where visitors can experience thrilling safaris and see an abundance of wildlife. Zambia also offers cultural attractions, including traditional ceremonies and craft markets. With friendly locals and a vibrant atmosphere, Zambia is a hidden gem waiting to be explored.",
         "climate": [
             "hot"
         ],
         "cost": 2
     },
-    "Zimbabwe": {
+    "zimbabwe": {
         "bio": "Zimbabwe, located in southern Africa, offers a unique blend of stunning natural beauty and rich cultural heritage. Visitors can explore the majestic Victoria Falls, one of the largest waterfalls in the world, and go on safari in renowned national parks such as Hwange and Mana Pools. The country is also known for its ancient ruins, including the Great Zimbabwe Ruins, a UNESCO World Heritage Site. Zimbabwe is a great destination for adventure seekers, with opportunities for activities like white-water rafting, bungee jumping, and hiking in the scenic Eastern Highlands.",
         "climate": [
             "hot"

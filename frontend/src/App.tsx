@@ -1,11 +1,12 @@
 import React, { useState, useEffect, useRef } from 'react';
 import LandingPage from './pages/LandingPage'; 
 import MapPage from './pages/MapPage';  
-import { CountryInfo } from './types';
+import { CountryInfo, Filter } from './types';
 import ResultsPage from './pages/ResultsPage';
 
 function App() {
   const [queryResult, setQueryResult] = useState<CountryInfo[] | null>(null);
+  const [filter, setFilter] = useState<Filter>({climate: ['humid', 'hot', 'cold'], cost: [1, 2, 3]});
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const targetDivRef = useRef<HTMLDivElement | null>(null); 
 
@@ -18,6 +19,7 @@ function App() {
 
   useEffect(() => {
     setIsLoading(false);
+    console.log(queryResult);
     if (queryResult) {
       targetDivRef.current?.scrollIntoView({
         behavior: 'smooth',
@@ -26,11 +28,16 @@ function App() {
     }
   }, [queryResult]); 
 
+  const filteredQueryResults: CountryInfo[] = [];
+  if (queryResult) queryResult.forEach((c: CountryInfo) => {
+    if (filter.cost.includes(c.info.cost)) filteredQueryResults.push(c);
+  });
+
   return (
     <>
       <LandingPage setQueryResult={setQueryResult} setIsLoading={setIsLoading}/>
-      <MapPage queryResult={queryResult} targetDiv={targetDivRef} isLoading={isLoading}/>
-      <ResultsPage queryResults={queryResult}></ResultsPage>
+      <MapPage queryResult={filteredQueryResults} targetDiv={targetDivRef} isLoading={isLoading}/>
+      <ResultsPage queryResult={filteredQueryResults}></ResultsPage>
     </>
   );
 }

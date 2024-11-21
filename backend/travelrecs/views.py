@@ -13,10 +13,12 @@ import json
 index_dir = "./travelrecs/bm25_index/"
 corpus_file = os.path.join(index_dir, "bm25_corpus.pkl")
 metadata_file = os.path.join(index_dir, "metadata.json")
+country_info_file = os.path.join(index_dir, "country_info.json")
 
 bm25 = None
 country_to_index = {}
 country_metadata = {}
+country_info = {}
 
 def expand_query(query: str, max_synonyms: int = 2) -> List[str]:
     query_tokens = query.split()
@@ -50,13 +52,16 @@ def get_country_alpha3(country_name: str) -> str:
         return None
     
 def load_bm25_index():
-    global bm25, country_to_index, country_metadata
+    global bm25, country_to_index, country_metadata, country_info
 
     with open(corpus_file, "rb") as f:
         tokenized_corpus = pickle.load(f)
 
     with open(metadata_file, "r") as f:
         country_metadata = json.load(f)
+
+    with open(country_info_file, "r") as f:
+        country_info = json.load(f)
 
     # Rebuild the BM25 index
     corpus = []
@@ -99,6 +104,6 @@ def query(request):
     results = []
     for country, score in sorted_results:
         alpha_3 = get_country_alpha3(country)
-        results.append({"name": country, "score": score, "code": alpha_3})
+        results.append({"name": country, "score": score, "code": alpha_3, "info": country_info[country]})
 
     return JsonResponse({"results": results}, safe=False)
