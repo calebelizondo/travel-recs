@@ -31,34 +31,36 @@ const Bar: React.FC<BarProps> = ({ setQueryResult, setIsLoading, query, setQuery
         : [...filter.cost, cost]
     });
   };
-
   return (
     <div className="sticky-bar-container">
       <SearchBar setQueryResult={setQueryResult} setIsLoading={setIsLoading} query={query} setQuery={setQuery} />
 
       <div className="filter-buttons-container">
-        <div>    
-            {(['hot', 'cold', 'humid'] as Climate[]).map((climate) => (
+        {/* Climate Filters */}
+        <div className="filter-group">
+          {(['hot', 'cold', 'humid'] as Climate[]).map((climate) => (
             <button
-                key={climate}
-                className={`filter-button ${filter.climate.includes(climate) ? 'active' : 'inactive'}`}
-                onClick={() => toggleClimate(climate)}
+              key={climate}
+              className={`filter-button ${filter.climate.includes(climate) ? 'active' : 'inactive'}`}
+              onClick={() => toggleClimate(climate)}
             >
-                {climateIcons[climate]}
+              {climateIcons[climate]}
             </button>
-            ))}
+          ))}
         </div>
-            <div>
-            {([1, 2, 3] as Cost[]).map((cost) => (
+
+        {/* Cost Filters */}
+        <div className="filter-group">
+          {([1, 2, 3] as Cost[]).map((cost) => (
             <button
-                key={cost}
-                className={`filter-button ${filter.cost.includes(cost as Cost) ? 'active' : 'inactive'}`}
-                onClick={() => toggleCost(cost as Cost)}
+              key={cost}
+              className={`filter-button ${filter.cost.includes(cost as Cost) ? 'active' : 'inactive'}`}
+              onClick={() => toggleCost(cost as Cost)}
             >
-                {costSymbols[cost]}
+              {costSymbols[cost]}
             </button>
-            ))}
-         </div>
+          ))}
+        </div>
       </div>
     </div>
   );

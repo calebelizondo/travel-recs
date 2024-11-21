@@ -49,9 +49,17 @@ function App() {
   }, []);
 
   const filteredQueryResults: CountryInfo[] = [];
-  if (queryResult) queryResult.forEach((c: CountryInfo) => {
-    if (filter.cost.includes(c.info.cost)) filteredQueryResults.push(c);
-  });
+  if (queryResult) {
+    queryResult.forEach((c: CountryInfo) => {
+      const hasCostMatch = filter.cost.includes(c.info.cost);
+      const hasClimateMatch =
+        !c.info.climate || c.info.climate.length === 0 || c.info.climate.some((climate) => filter.climate.includes(climate));
+      
+      if (hasCostMatch && hasClimateMatch) {
+        filteredQueryResults.push(c);
+      }
+    });
+  }
 
   return (
     <>
