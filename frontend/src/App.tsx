@@ -1,16 +1,17 @@
 import React, { useState, useEffect, useRef } from 'react';
-import LandingPage from './pages/LandingPage'; 
-import MapPage from './pages/MapPage';  
+import LandingPage from './pages/LandingPage';
+import MapPage from './pages/MapPage';
 import Bar from './components/Bar';
 import { CountryInfo, Filter } from './types';
 import ResultsPage from './pages/ResultsPage';
 import "./styles.css";
 
 function App() {
+  const [query, setQuery] = useState<string>('');
   const [queryResult, setQueryResult] = useState<CountryInfo[] | null>(null);
-  const [filter, setFilter] = useState<Filter>({climate: ['humid', 'hot', 'cold'], cost: [1, 2, 3]});
+  const [filter, setFilter] = useState<Filter>({ climate: ['humid', 'hot', 'cold'], cost: [1, 2, 3] });
   const [isLoading, setIsLoading] = useState<boolean>(false);
-  const targetDivRef = useRef<HTMLDivElement | null>(null); 
+  const targetDivRef = useRef<HTMLDivElement | null>(null);
   const [showStickyBar, setShowStickyBar] = useState<boolean>(false);
 
   useEffect(() => {
@@ -18,21 +19,22 @@ function App() {
       behavior: 'smooth',
       block: 'center',
     });
-  }, [isLoading])
+  }, [isLoading]);
 
   useEffect(() => {
     setIsLoading(false);
-    console.log(queryResult);
     if (queryResult) {
       targetDivRef.current?.scrollIntoView({
         behavior: 'smooth',
         block: 'center',
       });
     }
-  }, [queryResult]); 
+  }, [queryResult]);
 
   const handleScroll = () => {
-    if (window.scrollY > 100) {  
+    console.log("scrolling ...");
+    console.log(window.scrollY);
+    if (window.scrollY > 300) {
       setShowStickyBar(true);
     } else {
       setShowStickyBar(false);
@@ -46,7 +48,6 @@ function App() {
     };
   }, []);
 
-
   const filteredQueryResults: CountryInfo[] = [];
   if (queryResult) queryResult.forEach((c: CountryInfo) => {
     if (filter.cost.includes(c.info.cost)) filteredQueryResults.push(c);
@@ -54,11 +55,16 @@ function App() {
 
   return (
     <>
-      <div className={`sticky-bar ${showStickyBar ? 'visible' : ''}`}>
-        <Bar setQueryResult={setQueryResult} setIsLoading={setIsLoading} />
-      </div>
-      <LandingPage setQueryResult={setQueryResult} setIsLoading={setIsLoading}/>
-      <MapPage queryResult={filteredQueryResults} targetDiv={targetDivRef} isLoading={isLoading}/>
+      { showStickyBar ? (
+        <div className={`sticky-bar ${showStickyBar ? 'visible' : ''}`}>
+          <Bar setQueryResult={setQueryResult} setIsLoading={setIsLoading} query={query} setQuery={setQuery} filter={filter} setFilter={setFilter}/>
+        </div>
+      ) : (
+        <></>
+      )}
+        
+      <LandingPage setQueryResult={setQueryResult} setIsLoading={setIsLoading} query={query} setQuery={setQuery}/>
+      <MapPage queryResult={filteredQueryResults} targetDiv={targetDivRef} isLoading={isLoading} />
       <ResultsPage queryResult={filteredQueryResults}></ResultsPage>
     </>
   );

@@ -6,10 +6,11 @@ import { CountryInfo } from '../types';
 interface SearchBarProps {
   setQueryResult: (result: CountryInfo[] | null) => void;
   setIsLoading: (isLoading: boolean) => void;
+  query: string;
+  setQuery: (q: string) => void;
 }
 
-const SearchBar: React.FC<SearchBarProps> = ({ setQueryResult, setIsLoading }) => {
-  const [query, setQuery] = useState('');
+const SearchBar: React.FC<SearchBarProps> = ({ setQueryResult, setIsLoading, query, setQuery }) => {
 
   const baseUrl =
     process.env.NODE_ENV === 'production'

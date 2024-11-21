@@ -29,7 +29,7 @@ const Map: React.FC<MapProps> = ({queryResult}) => {
   return (
         <ComposableMap
             projection="geoNaturalEarth1"
-            projectionConfig={{ scale: 120 }}
+            projectionConfig={{ scale: 100 }}
         >
         <Geographies geography={worldGeoJson}>
             {({ geographies }) =>

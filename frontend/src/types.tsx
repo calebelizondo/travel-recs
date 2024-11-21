@@ -19,3 +19,17 @@ export interface CountryInfo {
 }
 
 export const cutoff = 12;
+
+export const climateIcons: { [key in Climate]: string } = {
+  hot: "🌞",
+  cold: "❄️",
+  humid: "💧",
+  dry: "🌵",  
+  mild: "🌤️",
+};
+
+export const costSymbols: { [key in Cost]: string } = {
+  1: "$",
+  2: "$$",
+  3: "$$$",
+};

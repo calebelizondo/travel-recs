@@ -82,6 +82,11 @@
     background-color: #f9f9f9;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
+
+  .country-card img {
+    width: 50%;
+    border-radius: 8px;
+  }
   
   .country-name {
     font-size: 1.5rem;
@@ -115,6 +120,15 @@
     display: flex;
     justify-content: flex-start;
     align-items: last baseline;
+    width: 100%;
+    gap: 20px; 
+  }
+
+
+  .country-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     width: 100%;
     gap: 20px; 
   }
